@@ -1,0 +1,15 @@
+# Ignorer l'environnement virtuel
+.venv/
+Pipfile.lock
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer les fichiers de configuration spécifiques à l'IDE
+.vscode/
+
+# Ignorer les fichiers systèmes ou des outils temporaires
+.DS_Store
+Thumbs.db
