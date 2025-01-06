@@ -1,0 +1,890 @@
+﻿Reference Type:  Journal Article
+Record Number: 185
+Author: Andreotti, F., Speelman, E. N., Van den Meersche, K. and Allinne, C.
+Year: 2020
+Title: Combining participatory games and backcasting to support collective scenario evaluation: an action research approach for sustainable agroforestry landscape management
+Journal: SUSTAINABILITY SCIENCE
+Volume: 15
+Issue: 5
+Pages: 1383-1399
+Date: SEP
+Short Title: Combining participatory games and backcasting to support collective scenario evaluation: an action research approach for sustainable agroforestry landscape management
+ISSN: 1862-4065
+1862-4057
+DOI: 10.1007/s11625-020-00829-3
+Accession Number: WOS:000560461100009
+Abstract: The combined and interacting effects of land-use change, resource extraction and climate change threaten the sustainability of millions of mainly smallholder farms in tropical agroforested landscapes. In many of these landscapes, coordinated action among stakeholders at landscape level would help to address challenges such as pests and diseases, price crises and climate change. However, methods to facilitate the co-production of sustainable landscape management in such complex multi-stakeholder systems are currently largely lacking. In this paper, we present a novel approach to explore pathways for the sustainability transition of agroforestry systems. By combining participatory forecasting and backcasting approaches, based on serious games and future vision development, we explore relevant agroforestry management strategies for reaching sustainable future coffee-based agroforestry landscapes. We focused our research on the challenges faced in the main coffee-producing area in Nicaragua. Here, we organized five participatory game sessions to explore farmer decision-making processes, farming strategies and to develop new networks and stimulate social learning among farmers. In the associated backcasting workshop, the most influential game session participants joined technicians, researchers and municipality officials to collectively envision sustainable future landscape management. In all game sessions, farmers developed diversified coffee-based agroforested landscapes characterised by increased density and diversity of shade trees, for the purpose of income diversification as well as forest conservation. During the backcasting workshop, the participants identified policy instruments and community-based solutions for the transition to sustainable landscapes. Our participatory approach facilitated discussion on landscape planning among farmers and other stakeholders and allowed the outline of a pathway towards the collective envisioned future landscape. The combination of participatory forecasting and backcasting proved to be a helpful tool to support multi-stakeholder processes towards sustainable landscape management in this and other complex landscapes.
+
+
+Reference Type:  Journal Article
+Record Number: 106
+Author: Archibald, S., Allinne, C., Cerdán, C. R. and Isaac, M. E.
+Year: 2022
+Title: From the ground up: Patterns and perceptions of herbaceous diversity in organic coffee agroecosystems
+Journal: ECOLOGICAL SOLUTIONS AND EVIDENCE
+Volume: 3
+Issue: 3
+Date: JUL
+Short Title: From the ground up: Patterns and perceptions of herbaceous diversity in organic coffee agroecosystems
+ISSN: 2688-8319
+DOI: 10.1002/2688-8319.12166
+Article Number: e12166
+Accession Number: WOS:000837050400001
+Abstract: Smallholder farms that transition to organic and biodiverse production are increasingly recognized as strongholds of agrobiodiversity, with emerging work identifying important outcomes such as enhancing crop portfolios, mitigating extreme climate events and contributing to farmer well-being. Yet the emergent herbaceous communities in these organic systems remain understudied, with the functional diversity and management of this stratum relatively unknown. This study identifies the taxonomic and functional diversity of the herbaceous community in organic coffee agroforestry systems, and describes the extent of this diversity with farm, and farmer, attributes. We measured leaf-level functional traits (e.g. specific leaf area) of the herbaceous community to derive functional diversity indices and collected localized environmental conditions on 15 organic coffee farms in Central Valley, Costa Rica. We also conducted semi-structured interviews with nine farmers to construct mental models on herbaceous community management using a cognitive mapping approach. In total, 38 species from 20 taxonomic families were present in these organic coffee systems. The herbaceous communities were functionally diverse; however, functional evenness increased with canopy openness, suggesting that farms adopting agroforestry tend to have a more functionally diverse herbaceous stratum. Farmer perception of plant traits in the herbaceous community was differentiated into competitive (weeds) or neutral/positive effects. These perceptions aligned with well-established functional trait trade-offs. The mental models representing farmer decision-making processes were highly variable, with a nearly 30% increase in cognitive map density from the simplest map to the most complex; this complexity in mental models was a key explanatory variable in the level of functional diversity of the herbaceous community. Organic management practices that support agroforestry practices also, in turn, promote a functionally diverse herbaceous stratum. We show that functional trait syndromes in these herbaceous communities in agroforestry systems are linked with farmer perceptions of traits, and that highly interconnected farm decision-making is related to greater functional diversity in the herbaceous community. Understanding pathways of farmer decision-making on managing this herbaceous community can appropriately situate on-farm practice and policy for the transition to organic production, and inform emerging agri-environmental programs.
+
+
+Reference Type:  Journal Article
+Record Number: 199
+Author: Beilhe, L. B., Roudine, S., Perez, J. A. Q., Allinne, C., Daout, D., Mauxion, R. and Carval, D.
+Year: 2020
+Title: Pest-regulating networks of the coffee berry borer (<i>Hypothenemus hampei</i>) in agroforestry systems
+Journal: CROP PROTECTION
+Volume: 131
+Date: MAY
+Short Title: Pest-regulating networks of the coffee berry borer (<i>Hypothenemus hampei</i>) in agroforestry systems
+ISSN: 0261-2194
+1873-6904
+DOI: 10.1016/j.cropro.2019.105036
+Article Number: 105036
+Accession Number: WOS:000519668900002
+Abstract: Pest regulation in agroforestry systems (AFS) is beginning to be well-recognized, but the mechanisms implied in the interaction network between the environment, pests and predators in AFS are still not well-described. The aim of this work is to understand how plant diversity associated with AFS regulates the coffee berry borer (CBB) taking into account a tripartite interaction network: pest predator environment. It further seeks to understand how farmers' management practices can modify the regulating network. Using field data from coffee-based AFS and structural equation modeling, we assessed the effects of environmental conditions (% shade cover, tree area surface, coffee density) and farm management (conventional, integrated, organic) on (1) ant predatory groups, (2) the abundance and the damage from CBB and (3) their interactions. Percentage of shade cover was positively correlated to CBB initial infestation (through direct effect) and negatively through its effect on coffee phenology. A higher percentage of shade is also negatively related to damage intensity. Farmers' practices significantly reduced the CBB population without considerable side effects on the ant predatory group, probably due to the high plant diversity within these farms. The abundance of the most diversified ant predatory group has a top-down effect on the peak of the CBB infestation rate. Our approach appears promising for a better understanding of the complex regulating network in coffee AFS and confirms the importance of an integrated management strategy to reduce CBB damage.
+
+
+Reference Type:  Journal Article
+Record Number: 186
+Author: Cerda, R., Avelino, J., Harvey, C. A., Gary, C., Tixier, P. and Allinne, C.
+Year: 2020
+Title: Coffee agroforestry systems capable of reducing disease-induced yield and economic losses while providing multiple ecosystem services
+Journal: CROP PROTECTION
+Volume: 134
+Date: AUG
+Short Title: Coffee agroforestry systems capable of reducing disease-induced yield and economic losses while providing multiple ecosystem services
+ISSN: 0261-2194
+1873-6904
+DOI: 10.1016/j.cropro.2020.105149
+Article Number: 105149
+Accession Number: WOS:000540832700010
+Abstract: Crop losses caused by pests and diseases decrease the incomes and threaten the livelihoods of thousands of families worldwide. A good example of the magnitude of these impacts are the massive crop losses experienced by coffee farmers in Central America due to coffee leaf rust. Coffee farmers need agroecosystems that are capable of regulating the negative impacts of pests and diseases while providing other ecosystem services on which their households and society depend. In this study, we aimed to identify the most promising coffee agroforestry systems for regulating diseases and ensuring the provision of other ecosystem services. During two years, in a research network of 61 coffee plots under a wide variety of shade and management conditions in Turrialba, Costa Rica, we quantified primary and secondary coffee losses (yield and economic losses) and indicators of three other ecosystem services: provisioning of agroforestry products (bananas, plantains, other fruits, and timber), maintenance of soil fertility and carbon sequestration. We then performed an analysis of the relationships between losses and ecosystem service indicators. Based on the results of relationships and on three criteria, we identified the coffee agroforestry systems that had the lowest losses due to diseases and that provided desirable levels of agroforestry products, soil fertility and carbon sequestration. We found multiple significant relationships between losses and ecosystem services (including both tradeoffs and synergies) which allowed us to derive recommendations for better management strategies to reduce yield losses. We identified six coffee agroforestry systems (CAFs) as the most promising ones for reducing losses while simultaneously providing other ecosystem services. One of these CAFs was a simple agroforestry system (dominated by service trees), three were medium diversified CAFs and two were highly diversified CAFs (systems including service trees, timber trees, fruit trees and musaceas). The six CAFS differed in their cropping practices and farmer profitability objectives. The six CAFs offer several options for the design of new coffee plantations or for the transformation of existing plantations. Several of this promising CAFs use little fungicides, which is an indicator that the reduction of chemical inputs could be possible. Our results suggest that the regulation of diseases and associated losses in agroforestry systems should be based on, and take advantage of, the positive effects of plant biodiversity, adequate shade cover, good soil fertility, and minimal use of fungicides.
+
+
+Reference Type:  Journal Article
+Record Number: 205
+Author: Claverie, M., Notaro, M., Fontaine, F. and Wery, J.
+Year: 2020
+Title: Current knowledge on Grapevine Trunk Diseases with complex etiology: a systemic approach
+Journal: PHYTOPATHOLOGIA MEDITERRANEA
+Volume: 59
+Issue: 1
+Pages: 29-53
+Date: APR
+Short Title: Current knowledge on Grapevine Trunk Diseases with complex etiology: a systemic approach
+ISSN: 0031-9465
+1593-2095
+DOI: 10.14601/Phyto-11150
+Accession Number: WOS:000534466900003
+Abstract: Among all causes of grapevine decline, Grapevine Trunk Diseases (GTDs) are major concerns for grape growers. This paper reviews knowledge and proposes hypotheses on two major GTDs, esca and Botryosphaeria dieback, and assembles a conceptual model. The objective was to collect information into a sequence, from grapevine nursery propagation processes, through foliar symptom expression, to plant death in mature vineyards. Pathogen infection and colonization steps in woody vine tissues, and the hypotheses that have been formulated to explain the outburst of foliar symptoms, are reported and discussed. Factors that could aggravate or repress GTD symptoms and incidence expansion are also addressed. Vine physiology and pathology together could expand understanding of these diseases. Knowledge and hypotheses that need validation are summarized, and a conceptual model is proposed to explain the occurrence of symptoms and the influencing factors. The model could be useful to cope with the complexity of GTDs, and as a starting point for research to unravel knowledge gaps and suggest new disease management strategies.
+
+
+Reference Type:  Journal Article
+Record Number: 101
+Author: Côte, F. X., Rapidel, B., Sourisseau, J. M., Affholder, F., Andrieu, N., Bessou, C., Caron, P., Deguine, J. P., Faure, G., Hainzelin, E., Malezieux, E., Poirier-Magona, E., Roudier, P., Scopel, E., Tixier, P., Toillier, A. and Perret, S.
+Year: 2022
+Title: Levers for the agroecological transition of tropical agriculture
+Journal: AGRONOMY FOR SUSTAINABLE DEVELOPMENT
+Volume: 42
+Issue: 4
+Date: AUG
+Short Title: Levers for the agroecological transition of tropical agriculture
+ISSN: 1774-0746
+1773-0155
+DOI: 10.1007/s13593-022-00799-z
+Article Number: 67
+Accession Number: WOS:000820988900001
+Abstract: To promote greater sustainability in agriculture, development of agroecology is increasingly being invoked. What are the conditions for establishing agroecological production in tropical regions? Based upon case studies in several tropical areas, we provide here some answers to this question. We review the "pillars" (i.e. principles) and the "implementation levers" (i.e., tools) for the development of agroecology. We identify three main pillars: (1) the mobilization and management of ecological processes for the sustainable production and the resilience of agroecosystems; (2) the development of interactions between technical, social, environmental, and institutional components of agroecosystems for a holistic approach to agroecology; and (3) the scaling up of agroecology that takes place with a plurality of actions and pathways at different organization levels rather than an increase in resources and a replication of standardized technical processes. To implement these three pillars, we identify 11 main bio-technical, cognitive, socio-political, and organizational levers. Bio-technical levers include those for (1) mobilizing complementarity between crop species to optimize natural resources use, (2) mobilizing functional biodiversity at the plot scale to optimize natural regulation of pests and diseases, (3) managing biodiversity at landscape and territorial scales, (4) increasing the efficiency of biogeochemical cycles, and (5) renewing targets for genetic improvement. Cognitive, socio-political, and organizational levers include those for (6) political and institutional action at the national and global level, (7) action at the local level to support producers, (8) political and organizational action at the territorial level, (9) the marketing and the development of new agri-chains, (10) the development of new methods for evaluating production systems, and (11) the recognition of the values of gender and generation within families and other organisational levels. This paper provides an overall orientation for the agroecological transition in tropical agriculture and also considers the socio-political context that underlies this transition.
+
+
+Reference Type:  Journal Article
+Record Number: 1
+Author: Dago, M. R., Zo-Bi, I. C., Konan, I. K., Kouassi, A. K., Guei, S., Jagoret, P., N'Guessan, A. E., Sanial, E., Tankam, C., Traoré, S. and Hérault, B.
+Year: 2024
+Title: What motivates West African cocoa farmers to value trees? Taking the 4 W approach to the heart of the field
+Journal: PEOPLE AND NATURE
+Date: 2024 NOV 19
+Short Title: What motivates West African cocoa farmers to value trees? Taking the 4 W approach to the heart of the field
+ISSN: 2575-8314
+DOI: 10.1002/pan3.10754
+NIHMSID: NOV 2024
+Accession Number: WOS:001359953600001
+Abstract: West Africa, the largest cocoa-producing region globally, has experienced significant deforestation in recent decades, leading countries to implement large-scale agroforestry policies; however, most studies on farmers' adoption of agroforestry fail to consider the social (Who?), historical (When?), geographical (Where?), and ecological (What?) factors that influence their motivations to value trees. Drawing from a sample of 150 farmers responsible for the management of 12,096 trees, we quantified the motivations of farmers for 10 material and immaterial uses of trees and used a Bayesian modelling framework to explore the relative importance of the 4 W framework in explaining general motivations, specific to each use, as well as the varying levels of specialization in tree management strategies among farmers. The distribution of use values by category shows that the highest values are associated with (i) agronomic uses (such as shade for cocoa trees and soil fertilization), (ii) food for human consumption, (iii) social purposes, and (iv) medicinal uses. All four aspects of the 4 W framework significantly contribute to understanding farmers' deep motivations, while the influence of each 4 W determinant varies based on the specific material and immaterial uses being considered. The level of specialization or diversification in cocoa farmers' motivations is significantly influenced by their knowledge of tree species and cocoa tree density, with knowledgeable farmers exhibiting greater diversification, while higher cocoa tree density and the presence of remnant trees lead to more specialized strategies that hinder agroforestry adoption. From a political perspective, it is urgent that stakeholders involved in the promotion of agroforestry consider all dimensions of the farmer-field system. The diversity of farmers' life histories (Who), of cultivated landscapes (Where), of field systems (What), and of time trajectories (When) present both constraints and opportunities with which farmers must contend to transition to much-desired agroforestry systems.
+
+
+Reference Type:  Journal Article
+Record Number: 269
+Author: Dépigny, S., Wils, E. D., Tixier, P., Keng, M. N., Cilas, C., Lescot, T. and Jagoret, P.
+Year: 2019
+Title: Plantain productivity: Insights from Cameroonian cropping systems
+Journal: AGRICULTURAL SYSTEMS
+Volume: 168
+Pages: 1-10
+Date: JAN
+Short Title: Plantain productivity: Insights from Cameroonian cropping systems
+ISSN: 0308-521X
+1873-2267
+DOI: 10.1016/j.agsy.2018.10.001
+Accession Number: WOS:000453643900001
+Abstract: Understanding the components of plantain productivity is important for contributing to the food security challenge in West and Central Africa. The purpose of this study was to assess how production system and cropping system characteristics affect plantain productivity. Interviews with farmers, dynamic measurements of cropped diversity, recording of management practices and characterization of the harvested bunches were used to characterize 25 plantain fields in the form of 54 factors and 5 dependent variables. The average bunch weight measured was 11.6 kg. The within-field variability of the bunch weights measured was 4.2 kg. The calculated mean plantain yield was 6.8 t/ha/year and varied between 1.1 and 18.8 t/ha/year depending on the fields studied. Harvested bunches amounted to only 34% of the field potential. Segmentation analyses (CART) of the fields studied and analyses of variance identified 12 factors strongly linked to bunch sizes and plantain field lifetime. The highest bunch weights were measured in fields belonging to farmers who participated in training and also applied herbicide and nitrogen fertilizers more frequently and at higher rates. These practices also increased within-field variability for bunch weights. Lastly, the management practices recorded showed an intensification of chemical inputs in traditional plantain-based cropping systems. These results, especially the high within-field and between-field variability for bunch weights, call for better quantify the impact of planting material quality and varietal mixture on plantain productivity into plantain-based cropping systems.
+
+
+Reference Type:  Journal Article
+Record Number: 109
+Author: Duong, B., Marraccini, P., Etienne, H., Villain, L., Hoang, G. T., Khong, G. N., Lebrun, M. and Duponnois, R.
+Year: 2022
+Title: Potential of the coffee endophytic <i>Bacillus cereus sensu lato</i> strain CCBLR15 to control the plant-parasitic nematode <i>Radopholus duriophilus</i>
+Journal: BIOCONTROL SCIENCE AND TECHNOLOGY
+Volume: 32
+Issue: 8
+Pages: 971-988
+Date: AUG 3
+Short Title: Potential of the coffee endophytic <i>Bacillus cereus sensu lato</i> strain CCBLR15 to control the plant-parasitic nematode <i>Radopholus duriophilus</i>
+ISSN: 0958-3157
+1360-0478
+DOI: 10.1080/09583157.2022.2070600
+NIHMSID: MAY 2022
+Accession Number: WOS:000791848700001
+Abstract: Bacillus cereus sensu lato strain CCBLR15 is highly efficient in inducing in vitro the mortality of coffee-parasitic nematodes, including Pratylenchus coffeae and Radopholus duriophilus. In the present study, this strain was further characterised to investigate (1) its taxonomic position, (2) the secreted/non-secreted nature of its nematicidal compounds, and (3) its in planta biocontrol capacity towards R. duriophilus. Firstly, analysis of 16S rRNA gene sequences and motility test indicated that CCBLR15 was closely related to B. cereus sensu stricto. Secondly, nematodes separate expositions in vitro to CCBLR15 culture filtrate and cell lysate revealed that nematicidal activity was attributed to compounds released after bacterial cell lysis. Thirdly, CCBLR15 nematode biocontrol capacity was studied using three Coffea arabica cultivars, either seed- or cutting-propagated. Plants were therefore characterised by different developmental stages, referred to as 'early' and 'advanced', with respectively 2-3 and 6-8 leaf pairs. Additionally, plants were grown in unsterilised soil, with a one-month delay between inoculations of bacteria and nematodes to assess the persistence of the nematicidal effects. The presence of R. duriophilus in roots decreased plant growth only in one cultivar whose plants were inoculated at the 'early' stage. Nonetheless, CCBLR15 pre-inoculation significantly reduced the number of nematodes in roots of all cultivars and inhibited the negative effects of nematodes in 'early'-inoculated plants. These results demonstrate the capacity of CCBLR15 to control R. duriophilus and constitute an important step before studying the persistence of its biocontrol effects on a longer period or after plants establishment in the field.
+
+
+Reference Type:  Journal Article
+Record Number: 88
+Author: Dupont, S., Irvine, M. R., Motisi, N., Allinne, C., Avelino, J. and Beilhe, L. B.
+Year: 2022
+Title: Wind-flow dynamics and spore-like particle dispersal over agroforestry systems: Impact of the tree density distribution
+Journal: AGRICULTURAL AND FOREST METEOROLOGY
+Volume: 327
+Date: DEC 15
+Short Title: Wind-flow dynamics and spore-like particle dispersal over agroforestry systems: Impact of the tree density distribution
+ISSN: 0168-1923
+1873-2240
+DOI: 10.1016/j.agrformet.2022.109214
+NIHMSID: OCT 2022
+Article Number: 109214
+Accession Number: WOS:000880814800001
+Abstract: Agroforestry systems associating trees with crops are gaining a growing interest due to their environmental benefits in a context of climate change and biodiversity loss. Still, the impact of trees on the wind dynamics within agroforestry systems remains poorly understood despite the key role played by the wind in energy and mass exchanges, including disease and pest propagation. Here, we present the first detailed analysis of the wind dynamics over agroforestry systems, combining in situ measurements and instantaneous airflow simulations, with a numerical application on spore-like particle dispersion from an infection point source at crop top. Simulations reproduce remarkably well most characteristics of the turbulent wind flow within the agroforestry system. Simulations reveal the presence of two inflection points on the mean wind velocity profile, at crop and tree tops, both inducing the development of mixing-layer type eddies, controlling most of the turbulent exchanges within the agroforestry system. Relative to the local wind, the turbulence at the crop scale is more intense and intermittent in presence of trees. With increasing tree density, the turbulence at crop top becomes dominated by tree-scale motions developing at tree top. The presence of trees has a different impact on particle dispersion according to the particle size and the wind intensity. Trees accentuate the vertical and transversal dispersal of submicron spores while they enhance the short-range deposition of coarser spores on crops, the more as the wind is low, and thus limit the long-range dispersal of coarse spores. Finally, a simple parameterization of the mean wind velocity vertical profile is proposed for agroforestry systems, depending only on the foliage densities and heights of the tree and crop layers. This parameterization leads to an indication of the agroforestry system efficiency to limit spore propagation through an estimation of the Rouse number at crop top.
+
+
+Reference Type:  Journal Article
+Record Number: 190
+Author: Durand-Bessart, C., Tixier, P., Quinteros, A., Andreotti, F., Rapidel, B., Tauvel, C. and Allinne, C.
+Year: 2020
+Title: Analysis of interactions amongst shade trees, coffee foliar diseases and coffee yield in multistrata agroforestry systems
+Journal: CROP PROTECTION
+Volume: 133
+Date: JUL
+Short Title: Analysis of interactions amongst shade trees, coffee foliar diseases and coffee yield in multistrata agroforestry systems
+ISSN: 0261-2194
+1873-6904
+DOI: 10.1016/j.cropro.2020.105137
+Article Number: 105137
+Accession Number: WOS:000528830400011
+Abstract: In complex coffee-based agroforestry systems, quantifying the impact of shade trees on coffee disease regulation and coffee yield is crucial for improving these systems and designing more sustainable ones. To this end, we analyzed interactions amongst shade trees, coffee plants (cv. Catimor), the coffee foliar disease complex and soil characteristics. We studied systems characterized by 40 variables measured in 60 plots located on three farms (monitored for 2 years) in Nicaragua. These variables characterized six system components grouped in six statistical blocks: shade trees (shade percentage and species abundancy), soil characteristics (fertility), foliar diseases, coffee plant characteristics (age and size), coffee growth and yield. We used partial least square path modelling (PLS-PM), i.e. a structural equation modelling approach used to understand and quantify interactions between the six blocks. Shade trees (mostly the associated shade percentage) had direct positive effects on foliar disease severity and incidence and soil quality, while having negative effects on coffee growth and yield. Soil characteristics (carbon, nitrogen, litter index, water infiltration potential) were negatively correlated with foliar diseases. An excessive shade percentage then had an indirect negative effect on coffee growth and yield due to the increased prevalence of foliar diseases. Finding the optimal shade cover can help reduce foliar diseases and enhance coffee berry production. The 'dose effect' of shade cover must also be considered because excessive shade, as well as lack of shade, have negative impacts on coffee growth and yield. Overall, effective shade management requires an analysis of trade-offs between soil quality, disease regulation and yield gains. In conclusion, PLS-PM turned out to be a good tool for studying agroecosystem networks and enabled us to put forward some foliar disease management and coffee yield enhancement guidelines.
+
+
+Reference Type:  Journal Article
+Record Number: 55
+Author: Esquivel, M. J., Vilchez-Mendoza, S., Harvey, C. A., Ospina, M. A., Somarriba, E., Deheuvels, O., Virginio, E. D., Haggar, J., Detlefsen, G., Cerdan, C., Casanoves, F. and Ordoñez, J. C.
+Year: 2023
+Title: Patterns of shade plant diversity in four agroforestry systems across Central America: a meta-analysis
+Journal: SCIENTIFIC REPORTS
+Volume: 13
+Issue: 1
+Date: MAY 26
+Short Title: Patterns of shade plant diversity in four agroforestry systems across Central America: a meta-analysis
+ISSN: 2045-2322
+DOI: 10.1038/s41598-023-35578-7
+Article Number: 8538
+Accession Number: WOS:001001070500055
+Abstract: Agroforestry systems can potentially increase tree diversity within agricultural landscapes, but to date, there is little understanding of the patterns of shade plant diversity within different agroforestry systems (AFS) at large spatial scales. Using compiled plant inventory data (from 23 sources, 2517 plots, and 148,255 individuals) encompassing four AFS (shaded coffee; shaded cocoa; dispersed trees on pastures; and live fences) across six countries in Central America we estimated different metrics of diversity to assess the conservation value of different AFS for shade plants. 458 shade plant species were recorded across the four agroforestry systems. Primary forest species accounted for 28% of the shade species recorded, but only 6% of the recorded individuals. No single AFS was consistently the most diverse across countries when considering rarefied species richness. Trees on pastures can potentially reach a similar species richness as cocoa and coffee systems but require sampled areas 7-30 times larger. In terms of composition, 29 species were shared across the agroforestry systems in different countries, illustrating the strong selection pressure of farmers for species that provide timber, firewood, and fruit. Our study highlights the potential contribution and limitations of different AFS for tree diversity conservation within agricultural landscapes.
+
+
+Reference Type:  Journal Article
+Record Number: 167
+Author: Kouadio, L., Tixier, P., Byrareddy, V., Marcussen, T., Mushtaq, S., Rapidel, B. and Stone, R.
+Year: 2021
+Title: Performance of a process-based model for predicting robusta coffee yield at the regional scale in Vietnam
+Journal: ECOLOGICAL MODELLING
+Volume: 443
+Date: MAR 1
+Short Title: Performance of a process-based model for predicting robusta coffee yield at the regional scale in Vietnam
+ISSN: 0304-3800
+1872-7026
+DOI: 10.1016/j.ecolmodel.2021.109469
+NIHMSID: JAN 2021
+Article Number: 109469
+Accession Number: WOS:000618329100005
+Abstract: Reliable and timely prediction of robusta coffee (Coffea canephora Pierre ex A. Froehner) yield is pivotal to the profitability of the coffee industry worldwide. In this study we assess the performance of a simple process-based model for simulating and predicting robusta coffee yield at the regional scale in Vietnam. The model includes the key processes of coffee growth and development and simulates its response to variation in climate and potential water requirements throughout the growing season. The model was built and evaluated for the major Vietnamese robusta coffee-producing provinces Dak Lak, Dak Nong, Gia Lai, Kon Tum, and Lam Dong, using official provincial coffee yield data and climate station data for the 2001-2014 period, and field data collected during a 10-year (2008-2017) survey. Overall, good agreements were found between the observed and predicted coffee yields. Root mean square error (RMSE) and mean absolute percentage error (MAPE) values ranged from 0.24 to 0.33 t ha(-1), and 9% to 14%, respectively. Willmott's index of agreement (WI) was greater than or equal to 0.710 in model evaluation steps for three out of five provinces. The relatively low values of WI were found for provinces with relatively low inter-annual yield variability (i.e. Dak Lak and Dak Nong). Moreover, the model was successfully tested using remote sensing satellite and model-based gridded climate data: MAPE values were <= 12% and RMSE were <= 0.29 t ha(-1). Such evaluation is important for long-term coffee productivity studies in these regions where long-term climate stations data are not readily available. The simple process-based model presented in this study could serve as a basis for developing an integrated seasonal climate-robusta coffee yield forecasting system, which would offer substantial benefits to coffee growers and industry through better supply chain management and preparedness for extreme climate events, and increased profitability.
+
+
+Reference Type:  Journal Article
+Record Number: 46
+Author: Kouakou, A. K., Trap, J., Diakhaté, S., Yéo, K. L., Perron, T., Gay, F. and Brauman, A.
+Year: 2024
+Title: Temporal changes of topsoil nematode communities in rubber plantations in Ivory Coast in response to logging residue management and legumes introduction
+Journal: PLANT AND SOIL
+Volume: 503
+Issue: 1-2
+Pages: 167-182
+Date: OCT
+Short Title: Temporal changes of topsoil nematode communities in rubber plantations in Ivory Coast in response to logging residue management and legumes introduction
+ISSN: 0032-079X
+1573-5036
+DOI: 10.1007/s11104-023-06369-w
+NIHMSID: NOV 2023
+Accession Number: WOS:001092144700001
+Abstract: AimsTree logging in tropical tree plantations results in significant soil disturbances that negatively impact soil biodiversity and soil functioning. Here, we aimed to assess the effects of adding organic matter (OM) to soil after rubber tree logging on soil functioning over time.MethodsThe experiment was conducted in two contrasting soil types in Ivory Coast. Four practices were replicated, including a control with no residues, the presence of legumes only, legumes and all tree parts excluding the trunk, and legumes and all the parts of the tree including the trunk. We monitored the response of soil nematode communities every six months for 24 months in each practice. Samples were collected from the topsoil layer (0-10 cm) in the interrow, and we also monitored soil carbon transformation by measuring in situ basal soil respiration, labile soil carbon and organic matter decay using the bait lamina method.ResultsThe results showed a sharp decrease in nematode abundance after tree logging, but OM restoration increased nematode abundance, the relative abundance of bacterivores, and resource availability to the soil food web. The resilience of the nematode communities depended on soil conditions and the amount and quality of logging residues. Total nematode abundance was positively and significantly related to soil functioning, measured through basal soil respiration, labile soil carbon, and organic matter decay rate.ConclusionThe results suggest that restoring logging residues can be an effective way to restore soil biodiversity and mitigate the negative impact of clear-cutting in tropical rubber plantations.
+
+
+Reference Type:  Journal Article
+Record Number: 61
+Author: Kouassi, A. K., Zo-Bi, I. C., Aussenac, R., Kouamé, I. K., Dago, M. R., N'Guess, A. E., Jagoret, P. and Hérault, B.
+Year: 2023
+Title: The great mistake of plantation programs in cocoa agroforests-Let's bet on natural regeneration to sustainably provide timber wood
+Journal: TREES FORESTS AND PEOPLE
+Volume: 12
+Date: JUN
+Short Title: The great mistake of plantation programs in cocoa agroforests-Let's bet on natural regeneration to sustainably provide timber wood
+ISSN: 2666-7193
+DOI: 10.1016/j.tfp.2023.100386
+NIHMSID: MAR 2023
+Article Number: 100386
+Accession Number: WOS:001002425200001
+Abstract: Cocoa production has been one of the main drivers of forest loss in West Africa. In the resulting post-forest landscapes, agroforestry has often been recognised as a solution to reconcile the preservation of trees and agriculture. Thus, a large number of tree plantation programs have been carried out in cocoa fields. Despite these major investments, the success of these plantations as a tool for "reforestation" of landscapes and sustainable timber production has never really been evaluated in fields where remnant trees, spontaneous trees and (trans) planted trees coexist. To quantify the current and future timber resource, we inventoried all trees in 150 cocoa fields distributed along the bioclimatic and historical gradients of the cocoa production area of Cote d'Ivoire, the world's leading producer. Our results show that (i) 19.6% of all associated trees are timber species, (ii) in plots where farmers actually introduced trees by planting, only 13.1% of trees have been (trans)planted, (iii) 69.7% of the current timber volume comes from remnant trees and (iv) spontaneous trees constitute 77% of the future timber resource. Based on our results, we propose 23 species along with their cultivation methods for the renewal of timber resource in cocoa fields. Overall, our results show the failure of plantation programs in cocoa fields and suggest to bet on natural regeneration to sustainably provide timber wood. Consequently, private companies supplying trees to farmers should focus on species that are complementary to those already present in natural regeneration. At the landscape level, remnant trees and residual forests should be preserved to maintain propagule sources. Finally, investments in reforestation of cocoa fields should be redirected towards training small farmers in silvicultural management techniques such as assisted natural regeneration and tree pruning.
+
+
+Reference Type:  Journal Article
+Record Number: 112
+Author: Koutouleas, A., Sarzynski, T., Bordeaux, M., Bosselmann, A. S., Campa, C., Etienne, H., Turreira-Garcia, N., Rigal, C., Vaast, P., Ramalho, J. C., Marraccini, P. and Raebild, A.
+Year: 2022
+Title: Shaded-Coffee: A Nature-Based Strategy for Coffee Production Under Climate Change? A Review
+Journal: FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+Volume: 6
+Date: APR 28
+Short Title: Shaded-Coffee: A Nature-Based Strategy for Coffee Production Under Climate Change? A Review
+ISSN: 2571-581X
+DOI: 10.3389/fsufs.2022.877476
+Article Number: 877476
+Accession Number: WOS:000795898300001
+Abstract: Coffee is deemed to be a high-risk crop in light of upcoming climate changes. Agroforestry practices have been proposed as a nature-based strategy for coffee farmers to mitigate and adapt to future climates. However, with agroforestry systems comes shade, a highly contentious factor for coffee production in terms of potential yield reduction, as well as additional management needs and interactions between shade trees and pest and disease. In this review, we summarize recent research relating to the effects of shade on (i) farmers' use and perceptions, (ii) the coffee microenvironment, (iii) pest and disease incidence, (iv) carbon assimilation and phenology of coffee plants, (v) coffee quality attributes (evaluated by coffee bean size, biochemical compounds, and cup quality tests), (vi) breeding of new Arabica coffee F1 hybrids and Robusta clones for future agroforestry systems, and (vii) coffee production under climate change. Through this work, we begin to decipher whether shaded systems are a feasible strategy to improve the coffee crop sustainability in anticipation of challenging climate conditions. Further research is proposed for developing new coffee varieties adapted to agroforestry systems (exhibiting traits suitable for climate stressors), refining extension tools by selecting locally-adapted shade trees species and developing policy and economic incentives enabling the adoption of sustainable agroforestry practices.
+
+
+Reference Type:  Journal Article
+Record Number: 113
+Author: Lavelle, P., Mathieu, J., Spain, A., Brown, G., Fragoso, C., Lapied, E., De Aquino, A., Barois, I., Barrios, E., Barros, M. E., Bedano, J. C., Blanchart, E., Caulfield, M., Chagueza, Y., Dai, J., Decaëns, T., Dominguez, A., Dominguez, Y., Feijoo, A., Folgarait, P., Fonte, S. J., Gorosito, N., Huerta, E., Jimenez, J. J., Kelly, C., Loranger, G., Marchao, R., Marichal, R., Praxedes, C., Rodriguez, L., Rousseau, G., Rousseau, L., Ruiz, N., Sanabria, C., Suarez, J. C., Tondoh, J. E., De Valença, A., Vanek, S. J., Vasquez, J., Velasquez, E., Webster, E. and Zhang, C.
+Year: 2022
+Title: Soil macroinvertebrate communities: A world-wide assessment
+Journal: GLOBAL ECOLOGY AND BIOGEOGRAPHY
+Volume: 31
+Issue: 7
+Pages: 1261-1276
+Date: JUL
+Short Title: Soil macroinvertebrate communities: A world-wide assessment
+ISSN: 1466-822X
+1466-8238
+DOI: 10.1111/geb.13492
+NIHMSID: APR 2022
+Accession Number: WOS:000782802000001
+Abstract: Aim Macroinvertebrates comprise a highly diverse set of taxa with great potential as indicators of soil quality. Communities were sampled at 3,694 sites distributed world-wide. We aimed to analyse the patterns of abundance, composition and network characteristics and their relationships to latitude, mean annual temperature and rainfall, land cover, soil texture and agricultural practices. Location Sites are distributed in 41 countries, ranging from 55 degrees S to 57 degrees N latitude, from 0 to 4,000 m in elevation, with annual rainfall ranging from 500 to >3,000 mm and mean temperatures of 5-32 degrees C. Time period 1980-2018. Major taxa studied All soil macroinvertebrates: Haplotaxida; Coleoptera; Formicidae; Arachnida; Chilopoda; Diplopoda; Diptera; Isoptera; Isopoda; Homoptera; Hemiptera; Gastropoda; Blattaria; Orthoptera; Lepidoptera; Dermaptera; and "others". Methods Standard ISO 23611-5 sampling protocol was applied at all sites. Data treatment used a set of multivariate analyses, principal components analysis (PCA) on macrofauna data transformed by Hellinger's method, multiple correspondence analysis for environmental data (latitude, elevation, temperature and average annual rainfall, type of vegetation cover) transformed into discrete classes, coinertia analysis to compare these two data sets, and bias-corrected and accelerated bootstrap tests to evaluate the part of the variance of the macrofauna data attributable to each of the environmental factors. Network analysis was performed. Each pairwise association of taxonomic units was tested against a null model considering local and regional scales, in order to avoid spurious correlations. Results Communities were separated into five clusters reflecting their densities and taxonomic richness. They were significantly influenced by climatic conditions, soil texture and vegetation cover. Abundance and diversity, highest in tropical forests (1,895 +/- 234 individuals/m(2)) and savannahs (1,796 +/- 72 individuals/m(2)), progressively decreased in tropical cropping systems (tree-associated crops, 1,358 +/- 120 individuals/m(2); pastures, 1,178 +/- 154 individuals/m(2); and annual crops, 867 +/- 62 individuals/m(2)), temperate grasslands (529 +/- 60 individuals/m(2)), forests (232 +/- 20 individuals/m(2)) and annual crops (231 +/- 24 individuals/m(2)) and temperate dry forests and shrubs (195 +/- 11 individuals/m(2)). Agricultural management decreased overall abundance by <= 54% in tropical areas and 64% in temperate areas. Connectivity varied with taxa, with dominant positive connections in litter transformers and negative connections with ecosystem engineers and Arachnida. Connectivity and modularity were higher in communities with low abundance and taxonomic richness. Main conclusions Soil macroinvertebrate communities respond to climatic, soil and land-cover conditions. All taxa, except termites, are found everywhere, and communities from the five clusters cover a wide range of geographical and environmental conditions. Agricultural practices significantly decrease abundance, although the presence of tree components alleviates this effect.
+
+
+Reference Type:  Journal Article
+Record Number: 99
+Author: Mattalia, G., Wezel, A., Costet, P., Jagoret, P., Deheuvels, O., Migliorini, P. and David, C.
+Year: 2022
+Title: Contribution of cacao agroforestry versus mono-cropping systems for enhanced sustainability. A review with a focus on yield
+Journal: AGROFORESTRY SYSTEMS
+Volume: 96
+Issue: 7
+Pages: 1077-1089
+Date: OCT
+Short Title: Contribution of cacao agroforestry versus mono-cropping systems for enhanced sustainability. A review with a focus on yield
+ISSN: 0167-4366
+1572-9680
+DOI: 10.1007/s10457-022-00765-4
+NIHMSID: AUG 2022
+Accession Number: WOS:000838472600001
+Abstract: The demand for cocoa has increased over the past years following the growth of cocoa-based products linked to the rise in living standard in highly populated countries. Cacao industry is therefore currently facing the dilemma of producing more cacao while ensuring its sustainability. Cacao monocrops and agroforestry systems (AFS) are two contrasting ways to produce cocoa, yet their impact on yields, contribution to farmer livelihood, cocoa quality remains understudied. Therefore, we reviewed existing literature comparing (1) monocrop cacao farming systems with (2) simple or (3) complex AFS. We found 19 comparisons of the cocoa yields in monocrops and simple AFS and 20 comparisons of monocrop and complex AFS. Three main research findings derive from this work. First, in about one third of cases, cacao trees yield more (or equally) in AFS than in monocrops. However, when considering only simple AFS, cacao trees yield more or equal to cacao monocrop in 52% of the cases. Second, cocoa AFS yields an average of 14% less than cacao monocrop. Yet, on average simple AFS yielded 2% less than cacao monocrops. Finally, there are too little elements to draw conclusions about the nexus between cocoa quality and cacao tree cultivation system.
+
+
+Reference Type:  Journal Article
+Record Number: 245
+Author: Nijmeijer, A., Lauri, PÉ, Harmand, J. M. and Saj, S.
+Year: 2019
+Title: Carbon dynamics in cocoa agroforestry systems in Central Cameroon: afforestation of savannah as a sequestration opportunity
+Journal: AGROFORESTRY SYSTEMS
+Volume: 93
+Issue: 3
+Pages: 851-868
+Date: JUN
+Short Title: Carbon dynamics in cocoa agroforestry systems in Central Cameroon: afforestation of savannah as a sequestration opportunity
+ISSN: 0167-4366
+1572-9680
+DOI: 10.1007/s10457-017-0182-6
+Accession Number: WOS:000467900200008
+Abstract: Afforestation of savannah is suggested as an approach to help addressing climate change mitigation through increased carbon (C) storage. Previous studies in Central Cameroon evidenced farmers' ability to realize afforestation by establishing cocoa-based agroforestry systems (cAFS) on humid savannah. In this forest-savannah transition zone, we studied an 80years chronosequence of cAFS to assess C dynamics. We selected cAFS established after forest or savannah, and we used local forest and savannah patches as controls. Aboveground carbon (AGC) was highest in the forests (118Mg C ha(-1)) and lowest in the savannahs (8Mg C ha(-1)). Systems established after forest (F-cAFS) revealed a mean AGC 40% lower than that of forests and did not evolve with time. The AGC of cAFS established after savannah (S-cAFS) increased with time and reached the mean AGC of F-cAFS (72Mg C ha(-1)) after ca. 75years. Soil organic carbon (SOC) concentration depended on clay content (R-2=0.55, P<0.001). The SOC concentration of F-cAFS did not evolve with time and revealed no difference with forest. In S-cAFS, considering a time of about 80years after afforestation, the average annual increase in SOC concentration in the 0-15cm layer ranged from 7.3 parts per thousand in soils with low clay content (10-15%) (R-2=0.60, P<0.01) to 9.5 parts per thousand in soils with higher clay content (20-25%). No significant change in SOC concentration was found for the 15-30cm layer. Overall, S-cAFS revealed to store and maintain significant levels of C both in the aboveground biomass and in the soil. Such an afforestation thus appeared as a valuable local strategy to combine cocoa and other perennial plant productions with C storage while avoiding deforestation.
+
+
+Reference Type:  Journal Article
+Record Number: 246
+Author: Nijmeijer, A., Lauri, PÉ, Harmand, J. M. and Saj, S.
+Year: 2019
+Title: Carbon dynamics in cocoa agroforestry systems in Central Cameroon: afforestation of savannah as a sequestration opportunity (vol 93, pg 851, 2019)
+Journal: AGROFORESTRY SYSTEMS
+Volume: 93
+Issue: 3
+Pages: 869-869
+Date: JUN
+Short Title: Carbon dynamics in cocoa agroforestry systems in Central Cameroon: afforestation of savannah as a sequestration opportunity (vol 93, pg 851, 2019)
+ISSN: 0167-4366
+1572-9680
+DOI: 10.1007/s10457-018-0204-z
+Accession Number: WOS:000467900200009
+Abstract: The published on-line ms Carbon dynamics of cocoa agroforestry systems in Central Cameroon: afforestation of savannah as a sequestration opportunity.
+
+
+Reference Type:  Journal Article
+Record Number: 254
+Author: Nijmeijer, A., Lauri, P. E., Harmand, J. M., Freschet, G. T., Nieboukaho, J. D. E., Fogang, P. K., Enock, S. and Saj, S.
+Year: 2019
+Title: Long-term dynamics of cocoa agroforestry systems established on lands previously occupied by savannah or forests
+Journal: AGRICULTURE ECOSYSTEMS & ENVIRONMENT
+Volume: 275
+Pages: 100-111
+Date: APR 1
+Short Title: Long-term dynamics of cocoa agroforestry systems established on lands previously occupied by savannah or forests
+ISSN: 0167-8809
+1873-2305
+DOI: 10.1016/j.agee.2019.02.004
+Accession Number: WOS:000468248200011
+Abstract: Cocoa agroforestry systems (cAFS) in Central Cameroon are established on lands which were either forest or savannah. The functioning and ecosystem services (ES) delivery of an agroecosystem can be influenced by past land-use. We hypothesised that savannah-derived cocoa agroforestry systems (S-cAFS) and forest-derived cocoa agroforestry systems (F-cAFS) would (i) progressively drift away from past land-use, and (ii) eventually converge and support comparable levels of ecosystem services. We selected 25 ecosystem attributes directly related to at least one of the following six ecosystem (dis)services (ES): species conservation, carbon storage, crop production, nutrient cycling, soil quality and soil pollution. We followed their temporal evolution in S- and F-cAFS along > 70-year chronosequences. Our results showed that the attributes and services studied followed typical temporal trajectories in S- and F-cAFS while generally tending to reach comparable levels on the long run. However, the time needed to do so varied strongly and ranged from 20 to 30 years for perennial species diversity to more than 70 years for C storage or some components of soil quality. The results also demonstrated that S-cAFS could sustainably improve many of the studied attributes and ES. Regarding the attributes related to the cocoa stand, both S- and F-cAFS seemed influenced by their previous land-use up until 15 and 30 years, respectively, after their establishment. With respect to soil quality, nutrient cycling and carbon storage, only S-cAFS could be significantly distinguished from their past land-use, after 15 to 30 years.
+
+
+Reference Type:  Journal Article
+Record Number: 137
+Author: Notaro, M., Collado, C., Depas, J. K., Dumovil, D., Denis, A. J., Deheuvels, O., Tixier, P. and Gary, C.
+Year: 2021
+Title: The spatial distribution and height of associated crops influence cocoa tree productivity in complex agroforestry systems
+Journal: AGRONOMY FOR SUSTAINABLE DEVELOPMENT
+Volume: 41
+Issue: 5
+Date: OCT
+Short Title: The spatial distribution and height of associated crops influence cocoa tree productivity in complex agroforestry systems
+ISSN: 1774-0746
+1773-0155
+DOI: 10.1007/s13593-021-00716-w
+Article Number: 60
+Accession Number: WOS:000687158100002
+Abstract: Knowledge is lacking on the effects of associated crops on cocoa productivity in complex cocoa-based agroforestry systems. Through a generalized linear mixed model, we analyzed the influence of (i) the density and (ii) the height of associated species on cocoa tree productivity along a distance gradient of 0 to 5 m between cocoa trees and associated plants. We mapped 34 mature agroforestry systems in farmers' plots to locate the position of different crop species in relation to each other. The production of each plant was monitored at fortnightly intervals over one year. The main results showed that cocoa tree productivity increased in the presence of Fabaceae, even when at a short distance (< 3 m), and to a lesser extent in the presence of timber trees. All the other species, i.e., food-producing trees, had a negative effect on cocoa productivity, which diminished with increasing distance up to a distance ranging from 3 to 5 m depending on the species. The height of associated plants also had a significantly negative effect on cocoa productivity at a distance of less than 3 m, beyond which the negative effect decreased. To our knowledge, it is the first study that finely analyzes the effect of associated crops on cocoa productivity according to farmers' use and for short distances. These results are of particular interest for the structural redesign of agroforestry systems, in order to optimize their agro-economic performance, and can be used to recommend the distance to be respected between cocoa trees and associated plants as well as the height of the different crops or forest trees.
+
+
+Reference Type:  Journal Article
+Record Number: 139
+Author: Notaro, M., Deheuvels, O. and Gary, C.
+Year: 2022
+Title: Participative design of the spatial and temporal development of improved cocoa agroforestry systems for yield and biodiversity
+Journal: EUROPEAN JOURNAL OF AGRONOMY
+Volume: 132
+Date: JAN
+Short Title: Participative design of the spatial and temporal development of improved cocoa agroforestry systems for yield and biodiversity
+ISSN: 1161-0301
+1873-7331
+DOI: 10.1016/j.eja.2021.126395
+NIHMSID: SEP 2021
+Article Number: 126395
+Accession Number: WOS:000703668500001
+Abstract: Farmers constantly adapt cropping systems to meet their needs. Cocoa farming is frequently associated with low incomes and little access to technical innovations for the small farmers and their families who are responsible for most cocoa production around the world. A collaborative approach, including different professionals working in the Dominican cocoa sector, led to the emergence of many technical innovations designed to modify the current agroforestry systems (AFS) in order to increase their overall productivity while maintaining a high level of biodiversity. Two types of original results are presented: (i) the co-design method that combined different participatory tools drawn from the literature and (ii) the results of applying the method for the co-design of complex AFS in four working groups. Compared to current AFS, a first level of innovation that emerged during the workshops involves the diversity and density of associated crops in AFS. The second level of innovation deals with the evolution over time and location of the different species selected for the AFS plots. This participatory work led to the formulation of four AFS prototypes whose crop species and densities follow spatio-temporal dynamics anticipated to be capable of providing better revenues while maintaining a high level of crop biodiversity. The different technical and management innovations of these prototypes are described and discussed. The AFS prototypes resulting from the co-design process will be established on farm to assess their agronomic, ecological and economic performances.
+
+
+Reference Type:  Journal Article
+Record Number: 210
+Author: Notaro, M., Gary, C. and Deheuvels, O.
+Year: 2020
+Title: Plant diversity and density in cocoa-based agroforestry systems: how farmers' income is affected in the Dominican Republic (vol 75, pg 452, 2020)
+Journal: AGROFORESTRY SYSTEMS
+Volume: 94
+Issue: 3
+Pages: 1085-1085
+Date: JUN
+Short Title: Plant diversity and density in cocoa-based agroforestry systems: how farmers' income is affected in the Dominican Republic (vol 75, pg 452, 2020)
+ISSN: 0167-4366
+1572-9680
+DOI: 10.1007/s10457-020-00489-3
+NIHMSID: MAR 2020
+Accession Number: WOS:000520815600001
+Abstract: Cocoa-based agroforestry systems (AFS) provide a variety of products.
+
+
+Reference Type:  Journal Article
+Record Number: 219
+Author: Notaro, M., Gary, C. and Deheuvels, O.
+Year: 2020
+Title: Plant diversity and density in cocoa-based agroforestry systems: how farmers' income is affected in the Dominican Republic
+Journal: AGROFORESTRY SYSTEMS
+Volume: 94
+Issue: 3
+Pages: 1071-1084
+Date: JUN
+Short Title: Plant diversity and density in cocoa-based agroforestry systems: how farmers' income is affected in the Dominican Republic
+ISSN: 0167-4366
+1572-9680
+DOI: 10.1007/s10457-019-00472-7
+NIHMSID: JAN 2020
+Accession Number: WOS:000505414400001
+Abstract: Cocoa-based agroforestry systems (AFS) provide a variety of products, either sold or self-consumed. The choice of crop species and planting density in cocoa AFS has an impact on the quantities and the economic value of the agricultural products sold and consumed by producers. We characterized 140 cocoa AFS in three main production areas in the Dominican Republic, together with farmer's management practices, to construct a typology of cocoa AFS based on their structure, and evaluate their performances. The sum of the sales of cocoa, other products, and self-consumption did not differ significantly among AFS types. However, a high degree of diversification combined with a high density of associated fruit species reduced cocoa sales, but increased fruit sales and self-consumption. In contrast, a low diversity of associated plants including nitrogen-fixing trees increased cocoa sales but reduced fruit sales and self-consumption. The highest economic performance was obtained with intermediate diversity (three to seven species) and density (100-400 associated plants ha(-1)). Our results provide food for thought for optimizing crop diversity and density to adjust the economic balance between sales and self-consumption of the products harvested in cocoa AFS.
+
+
+Reference Type:  Journal Article
+Record Number: 136
+Author: Notaro, M., Gary, C., Le Coq, J. F., Metay, A. and Rapidel, B.
+Year: 2022
+Title: How to increase the joint provision of ecosystem services by agricultural systems. Evidence from coffee-based agroforestry systems
+Journal: AGRICULTURAL SYSTEMS
+Volume: 196
+Date: FEB
+Short Title: How to increase the joint provision of ecosystem services by agricultural systems. Evidence from coffee-based agroforestry systems
+ISSN: 0308-521X
+1873-2267
+DOI: 10.1016/j.agsy.2021.103332
+NIHMSID: NOV 2021
+Article Number: 103332
+Accession Number: WOS:000744229400005
+Abstract: CONTEXT: Agricultural systems can provide ecosystem services (ES) beneficial for both the sustainability of farms and the quality of life for humans. Agriculture is regularly criticized for focusing technical management of cropping systems more on production services than on support or regulation services. To achieve the agroecological intensification of cropping systems, a joint provision of multiple ES is required. OBJECTIVE: Our aim was to (i) understand the determinants of the provision of ES and (ii) analyze the relationships between these services in order to (iii) identify agroecological intensification pathways. We focused our study on four ES, which are (1) coffee production, (2) water quality preservation, (3) carbon sequestration and (4) biodiversity conservation, provided by coffee agroforestry systems in a small region in Nicaragua. METHODS: A two-phase sampling scheme was implemented to measure and elucidate the provision of these services. First, we selected a large sample (82 coffee plots) to gain insight into and quantify the four ES. Secondly, we extracted a sub-sample (27 plots) showing variability in the provision of the four ES, to closely examine the determinants of the service most useful to farmers, coffee production. RESULTS AND CONCLUSION: The results showed that carbon sequestration (in average 36 t.haxe213; 1.yrxe213; 1) was not correlated with coffee yield (in average 1127 kg.haxe213; 1.yrxe213; 1) and depended more on the presence of a few big trees in farm plots (O > 0.9 m) than on tree density. Yield increased with tree biodiversity up to a threshold (Shindex = 1.5), after which it clearly declined. The use of the most harmful pesticides to human health at higher doses than recommended did not lead to the highest yields. The most important determinants of coffee production were soil nitrogen content, soil pH, solar radiation, disease and weed incidence. Although reducing the shade tree density increased coffee production, this reduction was not necessarily related to a decrease in shade tree biodiversity and carbon sequestration, or an increase in water contamination potential. A few farmers actually achieved such high joint ES provision, in particular by selecting adequate shade trees grown at moderate densities. SIGNIFICANCE: The novelty of this article lies on an original method that consists in analyzing the ES provided by cropping systems in order to identify management strategies that are effective in providing a higher combined level of ES than those currently provided. We emphasize the importance of linking agricultural practices to the ES delivered, in order to gain an in-depth understanding of which technical levers are positively correlated with the determinants of the expected services.
+
+
+Reference Type:  Journal Article
+Record Number: 127
+Author: Oller, P. O., Notaro, M., Langer, E. and Gary, C.
+Year: 2022
+Title: Structure and management of traditional agroforestry vineyards in the high valleys of southern Bolivia
+Journal: AGROFORESTRY SYSTEMS
+Volume: 96
+Issue: 2
+Pages: 375-386
+Date: FEB
+Short Title: Structure and management of traditional agroforestry vineyards in the high valleys of southern Bolivia
+ISSN: 0167-4366
+1572-9680
+DOI: 10.1007/s10457-021-00725-4
+NIHMSID: FEB 2022
+Accession Number: WOS:000751590300001
+Abstract: In the south of Bolivia, a group of traditional wine growers are distinguished by the cultivation of grapevines on native trees that serve as tutors. These growers currently represent one of the few examples of agroforestry vineyards in the world. They offer an opportunity to analyze the structure and management of these cropping systems, and to identify the ecosystem services provided by the combination of grapevines that are trained on trees. We characterize 29 agroforestry vineyards located in three high valleys in southern Bolivia, describing the main farm features, the structure and management of the vineyards, and the advantages of on-tree vine staking as recorded by the farmers. Farms were small (2.2 ha on average), with about half viticulture and half other crops and forage. The workforce was about half family and half employees. The most commonly used tree species were the molle tree (Schinus molle) and chanar tree (Geoffroea decorticans), and the majority of grape varieties grown were landraces such as "Negra criolla" and "Vicchoquena." The main cultivation techniques were pruning of the trees and vines, application of manure more than mineral fertilizers, gravity irrigation, and application of few pesticides. The main services farmers expected from trees were protection against climate hazards and flooding, disease control, maintenance of soil fertility, and higher yields. Agroforestry is a promising option for the agroecological transition of viticulture, which deserves further studies at both plot and farm scales.
+
+
+Reference Type:  Journal Article
+Record Number: 188
+Author: Ovalle-Rivera, O., Van Oijen, M., Läderach, P., Roupsard, O., Filho, E. D. V., Barrios, M. and Rapidel, B.
+Year: 2020
+Title: Assessing the accuracy and robustness of a process-based model for coffee agroforestry systems in Central America
+Journal: AGROFORESTRY SYSTEMS
+Volume: 94
+Issue: 5
+Pages: 2033-2051
+Date: OCT
+Short Title: Assessing the accuracy and robustness of a process-based model for coffee agroforestry systems in Central America
+ISSN: 0167-4366
+1572-9680
+DOI: 10.1007/s10457-020-00521-6
+NIHMSID: JUL 2020
+Accession Number: WOS:000546835800001
+Abstract: Coffee is often grown in production systems associated with shade trees that provide different ecosystem services. Management, weather and soil conditions are spatially variable production factors. CAF2007 is a dynamic model for coffee agroforestry systems that takes these factors as inputs and simulates the processes underlying berry production at the field scale. There remain, however, uncertainties about process rates that need to be reduced through calibration. Bayesian statistics using Markov chain Monte Carlo algorithms is increasingly used for calibration of parameter-rich models. However, very few studies have employed multi-site calibration, which aims to reduce parameter uncertainties using data from multiple sites simultaneously. The main objectives of this study were to calibrate the coffee agroforestry model using data gathered in long-term experiments in Costa Rica and Nicaragua, and to test the calibrated model against independent data from commercial coffee-growing farms. Two sub-models were improved: calculation of flowering date and the modelling of biennial production patterns. The modified model, referred to as CAF2014, can be downloaded at 10.5281/zenodo.3608877. Calibration improved model performance (higher R-2, lower RMSE) for Turrialba (Costa Rica) and Masatepe (Nicaragua), including when all experiments were pooled together. Multi-site and single-site Bayesian calibration led to similar RMSE. Validation on new data from coffee-growing farms revealed that both calibration methods improved simulation of yield and its bienniality. The thus improved model was used to test the effect of N fertilizer and shade in different locations on coffee yield.
+
+
+Reference Type:  Journal Article
+Record Number: 152
+Author: Phillips, H. R. P., Bach, E. M., Bartz, M. L. C., Bennett, J. M., Beugnon, R., Briones, M. J. I., Brown, G. G., Ferlian, O., Gongalsky, K. B., Guerra, C. A., König-Ries, B., Krebs, J. J., Orgiazzi, A., Ramirez, K. S., Russell, D. J., Schwarz, B., Wall, D. H., Brose, U., Decaëns, T., Lavelle, P., Loreau, M., Mathieu, J., Mulder, C., van der Putten, W. H., Rillig, M. C., Thakur, M. P., de Vries, F. T., Wardle, D. A., Ammer, C., Ammer, S., Arai, M., Ayuke, F. O., Baker, G. H., Baretta, D., Barkusky, D., Beauséjour, R., Bedano, J. C., Birkhofer, K., Blanchart, E., Blossey, B., Bolger, T., Bradley, R. L., Brossard, M., Burtis, J. C., Capowiez, Y., Cavagnaro, T. R., Choi, A., Clause, J., Cluzeau, D., Coors, A., Crotty, F. V., Crumsey, J. M., Dávalos, A., Cosín, D. J. D., Dobson, A. M., Domínguez, A., Duhour, A. E., van Eekeren, N., Emmerling, C., Falco, L. B., Fernández, R., Fonte, S. J., Fragoso, C., Franco, A. L. C., Fusilero, A., Geraskina, A. P., Gholami, S., González, G., Gundale, M. J., López, M. G., Hackenberger, B. K., Hackenberger, D. K., Hernández, L. M., Hirth, J. R., Hishi, T., Holdsworth, A. R., Holmstrup, M., Hopfensperger, K. N., Lwanga, E. H., Huhta, V., Hurisso, T. T., Iannone, B. V., Iordache, M., Irmler, U., Ivask, M., Jesús, J. B., Johnson-Maynard, J. L., Joschko, M., Kaneko, N., Kanianska, R., Keith, A. M., Kernecker, M. L., Koné, A. W., Kooch, Y., Kukkonen, S. T., Lalthanzara, H., Lammel, D. R., Lebedev, I. M., Le Cadre, E., Lincoln, N. K., López-Hernández, D., Loss, S. R., Marichal, R., Matula, R., Minamiya, Y., Moos, J. H., Moreno, G., Morón-Ríos, A., Motohiro, H., Muys, B., Neirynck, J., Norgrove, L., Novo, M., Nuutinen, V., Nuzzo, V., Rahman, P. M., Pansu, J., Paudel, S., Pérès, G., Pérez-Camacho, L., Ponge, J. F., Prietzel, J., Rapoport, I. B., Rashid, M. I., Rebollo, S., Rodríguez, M. A., Roth, A. M., Rousseau, G. X., Rozen, A., Sayad, E., van Schaik, L., Scharenbroch, B., Schirrmann, M., Schmidt, O., Schröder, B., Seeber, J., Shashkov, M. P., Singh, J., Smith, S. M., Steinwandter, M., Szlavecz, K., Talavera, J. A., Trigo, D., Tsukamoto, J., Uribe-López, S., de Valença, A. W., Virto, I., Wackett, A. A., Warren, M. W., Webster, E. R., Wehr, N. H., Whalen, J. K., Wironen, M. B., Wolters, V., Wu, P. F., Zenkova, I. V., Zhang, W. X., Cameron, E. K. and Eisenhauer, N.
+Year: 2021
+Title: Global data on earthworm abundance, biomass, diversity and corresponding environmental properties
+Journal: SCIENTIFIC DATA
+Volume: 8
+Issue: 1
+Date: MAY 21
+Short Title: Global data on earthworm abundance, biomass, diversity and corresponding environmental properties
+ISSN: 2052-4463
+DOI: 10.1038/s41597-021-00912-z
+Article Number: 136
+Accession Number: WOS:000657695700001
+Abstract: Earthworms are an important soil taxon as ecosystem engineers, providing a variety of crucial ecosystem functions and services. Little is known about their diversity and distribution at large spatial scales, despite the availability of considerable amounts of local-scale data. Earthworm diversity data, obtained from the primary literature or provided directly by authors, were collated with information on site locations, including coordinates, habitat cover, and soil properties. Datasets were required, at a minimum, to include abundance or biomass of earthworms at a site. Where possible, site-level species lists were included, as well as the abundance and biomass of individual species and ecological groups. This global dataset contains 10,840 sites, with 184 species, from 60 countries and all continents except Antarctica. The data were obtained from 182 published articles, published between 1973 and 2017, and 17 unpublished datasets. Amalgamating data into a single global database will assist researchers in investigating and answering a wide variety of pressing questions, for example, jointly assessing aboveground and belowground biodiversity distributions and drivers of biodiversity change.
+
+
+Reference Type:  Journal Article
+Record Number: 233
+Author: Phillips, H. R. P., Guerra, C. A., Bartz, M. L. C., Briones, M. J. I., Brown, G., Crowther, T. W., Ferlian, O., Gongalsky, K. B., den Hoogen, J., Krebs, J., Orgiazzi, A., Routh, D., Schwarz, B., Bach, E. M., Bennett, J., Brose, U., Decaens, T., König-Ries, B., Loreau, M., Mathieu, J., Mulder, C., van der Putten, W. H., Ramirez, K. S., Rillig, M. C., Russell, D., Rutgers, M., Thakur, M. P., de Vries, F. T., Wall, D. H., Wardle, D. A., Arai, M., Ayuke, F. O., Baker, G. H., Beauséjour, R., Bedano, J. C., Birkhofer, K., Blanchart, E., Blossey, B., Bolger, T., Bradley, R. L., Callaham, M. A., Capowiez, Y., Caulfield, M. E., Choi, A., Crotty, F. V., Dávalos, A., Cosin, D. J. D., Dominguez, A., Duhour, A. E., van Eekeren, N., Emmerling, C., Falco, L. B., Fernández, R., Fonte, S. J., Fragoso, C., Franco, A. L. C., Fugere, M., Fusilero, A. T., Gholami, S., Gundale, M. J., Lopez, M. G., Hackenberger, D. K., Hernández, L. M., Hishi, T., Holdsworth, A. R., Holmstrup, M., Hopfensperger, K. N., Lwanga, E. H., Huhta, V., Hurisso, T. T., Iannone, B. V., Iordache, M., Joschko, M., Kaneko, N., Kanianska, R., Keith, A. M., Kelly, C. A., Kernecker, M. L., Klaminder, J., Koné, A. W., Kooch, Y., Kukkonen, S. T., Lalthanzara, H., Lammel, D. R., Lebedev, I. M., Li, Y. Q., Lidon, J. B. J., Lincoln, N. K., Loss, S. R., Marichal, R., Matula, R., Moos, J. H., Moreno, G., Morón-Ríos, A., Muys, B., Neirynck, J., Norgrove, L., Novo, M., Nuutinen, V., Nuzzo, V., Rahman, P. M., Pansu, J., Paudel, S., Pérès, G., Perez-Camacho, L., Pineiro, R., Ponge, J. F., Rashid, M. I., Rebollo, S., Rodeiro-Iglesias, J., Rodriguez, M. A., Roth, A. M., Rousseau, G. X., Rozen, A., Sayad, E., Schaik, L., Scharenbroch, B. C., Schirrmann, M., Schmidt, O., Schröder, B., Seeber, J., Shashkov, M. P., Singh, J., Smith, S. M., Steinwandter, M., Talavera, J. A., Trigo, D., Tsukamoto, J., de Valença, A. W., Vanek, S. J., Virto, I., Wackett, A. A., Warren, M. W., Wehr, N. H., Whalen, J. K., Wironen, M. B., Wolters, V., Zenkova, I. V., Zhang, W. X., Cameron, E. K. and Eisenhauer, N.
+Year: 2019
+Title: Global distribution of earthworm diversity
+Journal: SCIENCE
+Volume: 366
+Issue: 6464
+Pages: 480-+
+Date: OCT 25
+Short Title: Global distribution of earthworm diversity
+ISSN: 0036-8075
+1095-9203
+DOI: 10.1126/science.aax4851
+Accession Number: WOS:000493177900045
+Abstract: Soil organisms, including earthworms, are a key component of terrestrial ecosystems. However, little is known about their diversity, their distribution, and the threats affecting them. We compiled a global dataset of sampled earthworm communities from 6928 sites in 57 countries as a basis for predicting patterns in earthworm diversity, abundance, and biomass. We found that local species richness and abundance typically peaked at higher latitudes, displaying patterns opposite to those observed in aboveground organisms. However, high species dissimilarity across tropical locations may cause diversity across the entirety of the tropics to be higher than elsewhere. Climate variables were found to be more important in shaping earthworm communities than soil properties or habitat cover. These findings suggest that climate change may have serious implications for earthworm communities and for the functions they provide.
+
+
+Reference Type:  Journal Article
+Record Number: 51
+Author: Rafflegeau, S., Gosme, M., Barkaoui, K., Garcia, L., Allinne, C., Deheuvels, O., Grimaldi, J., Jagoret, P., Lauri, P. E., Merot, A., Metay, A., Reyes, F., Saj, S., Curry, G. N. and Justes, E.
+Year: 2023
+Title: The ESSU concept for designing, modeling and auditing ecosystem service provision in intercropping and agroforestry systems. A review
+Journal: AGRONOMY FOR SUSTAINABLE DEVELOPMENT
+Volume: 43
+Issue: 4
+Date: AUG
+Short Title: The ESSU concept for designing, modeling and auditing ecosystem service provision in intercropping and agroforestry systems. A review
+ISSN: 1774-0746
+1773-0155
+DOI: 10.1007/s13593-023-00894-9
+Article Number: 43
+Accession Number: WOS:001009874300001
+Abstract: Duru et al. (Agron Sustain Dev 35:1259-1281, 2015) highlighted a missing tool for studying and improving the performance of cropping systems in the transition to highly diversified agriculture. In response, this paper proposes a concept for designing, modeling, monitoring, and auditing desired ecosystem services, in intercropping and agroforestry systems. We have labelled this concept ESSU (Ecosystem Services functional Spatial Unit). It delimits the smallest spatial unit encompassing all the interacting species and other functional components (e.g., crops, trees, livestock, spontaneous vegetation, semi-natural habitats such as hedges, ditches, forest patches, and animals) that together provide a specified set of ecosystem services. The novel ESSU concept allows representation of an entire diversified agroecosystem by the repetition of the spatial unit that provides the same sets of targeted ecosystem services as the agroecosystem it represents. It can then be used for various activities, such as the (i) design of more efficient agroecological systems according to the targeted ecosystem services; (ii) rapid audit of farming practices for biodiversity/resilience across large tracts of farmland as part of achieving Sustainable Development Goal 2 targets of sustainable food systems; and (iii) modeling such diversified agroecosystems using a motif adapted to represent the targeted ecosystem services and the species spacing design. We demonstrate that the ESSU concept is highly flexible and applicable to a wide range of diversified agroecosystems, like arable intercropping, crop-tree intercropping, tree-tree agroforestry, and agro-pastoralism. We also show its relevance and suitability for representing temporal changes over 1 year, across several years, and over decades, indicating its generalizability and flexibility. We argue that ESSU could open new theoretical and practical research avenues for the study of diversified agroecosystems. Considered with all the knowledge available on practices, biodiversity, and ecosystem services, ESSU might provide a learning-support tool to fill the knowledge gap about relationships among practices, biodiversity, and associated ecosystem services.
+
+
+Reference Type:  Journal Article
+Record Number: 27
+Author: Ramos, M. J., Beilhe, L. B., Alvarado, J., Rapidel, B. and Allinne, C.
+Year: 2024
+Title: Disentangling shade effects for cacao pest and disease regulation in the Peruvian Amazonia
+Journal: AGRONOMY FOR SUSTAINABLE DEVELOPMENT
+Volume: 44
+Issue: 1
+Date: FEB
+Short Title: Disentangling shade effects for cacao pest and disease regulation in the Peruvian Amazonia
+ISSN: 1774-0746
+1773-0155
+DOI: 10.1007/s13593-024-00948-6
+Article Number: 11
+Accession Number: WOS:001159674900001
+Abstract: There has been substantial research on shade in cacao agroforestry systems, with most studies focusing on the impact of the shade cast by the associated shade trees on microclimate and yield. However, to our knowledge, no cacao agroforestry studies have explored how shade and its microclimate-modifying capacity influence the agrosystem's pest and disease regulating service. Utilizing thermal hygrometers and hemispherical photographs, we measured temperature and relative humidity during the dry and wet seasons as well as the shade of associated trees (associated shade), combining the latter with cacao self-shade (total shade). This approach enabled us to uncover how each shade type influences microclimate, yields, and pests and diseases beneath cacao trees. Additionally, we developed a novel method to estimate attainable yield, actual yield, and yield loss due to pests and diseases. Using yield loss as a proxy of the pest and disease regulating service and structural equation modeling, we built a model depicting the interaction network between shade types and their role in cacao pest and disease regulation. Our results showed that each shade type uniquely influenced cacao agroecosystem outcomes, with the associated shade negatively impacting attainable yield and total shade having a positive effect. Associated shade also mitigated the dry season microclimate and limited pest and disease occurrence. Notably, shade alone was not the sole pest and disease-related yield loss driver; it is part of a complex interaction network. These innovative shade measurement and yield loss estimation methods have enhanced enhance our understanding of pest and disease regulation. Conclusively, different management approaches for associated shade and total shade are crucial for optimizing yields and pest and disease regulation in cacao agroforestry systems.
+
+
+Reference Type:  Journal Article
+Record Number: 103
+Author: Rigal, C., Wagner, S., Nguyen, M. P., Jassogne, L. and Vaast, P.
+Year: 2022
+Title: ShadeTreeAdvice methodology: Guiding tree-species selection using local knowledge
+Journal: PEOPLE AND NATURE
+Volume: 4
+Issue: 5
+Pages: 1233-1248
+Date: OCT
+Short Title: ShadeTreeAdvice methodology: Guiding tree-species selection using local knowledge
+ISSN: 2575-8314
+DOI: 10.1002/pan3.10374
+NIHMSID: JUL 2022
+Accession Number: WOS:000829809700001
+Abstract: Selection of shade tree species for agroforestry systems must take the complexity of these systems into account. Tree species selection should maximize the provision of ecosystem services while minimizing disservices. Selected species must be adapted to local agroecological conditions and cater to farmers' needs, while considering their preferences and constraints. The ShadeTreeAdvice methodology was developed to support said selection process using farmers' local ecological knowledge. It provides the steps to rapidly identify tree species and evaluate their impacts on a range of locally important ecosystem services. Results are uploaded to a decision support tool to tailor tree species recommendations to individual farmers' needs (). During the 5 year timeframe between 2016 and 2020, eight studies following this methodology were conducted in various coffee and cocoa growing regions across Africa, Asia and Central America. This article looks back at these studies to synthesize their findings and evaluate the methodology. We identified similarities in the use of tree species across different study areas, notably regarding leguminous and fruit tree species. We showed that the method was efficient to evaluate tree species' impacts on soil and climate regulation, crop production, and economic benefits. It was less efficient for evaluating impacts related to incidence of pests and diseases, often associated with knowledge gaps. The method also successfully allowed investigating the links between LEK and socio-economic groups or environmental factors. Furthermore, we suggest a series of improvements in the methodology for future studies. These improvements include (i) broadening the scope of studies beyond tree species provision of ecosystem services to include tree species impact on farming practices; (ii) allowing the comparison of tree performances in agroforestry systems versus in full sun; (iii) providing a clear pathway for validation of the results; (iv) using tree species' functional traits to generalize the results. Read the free Plain Language Summary for this article on the Journal blog.
+
+
+Reference Type:  Journal Article
+Record Number: 224
+Author: Rigal, C., Xu, J. C., Hu, G. L., Qiu, M. H. and Vaast, P.
+Year: 2020
+Title: Coffee production during the transition period from monoculture to agroforestry systems in near optimal growing conditions, in Yunnan Province
+Journal: AGRICULTURAL SYSTEMS
+Volume: 177
+Date: JAN
+Short Title: Coffee production during the transition period from monoculture to agroforestry systems in near optimal growing conditions, in Yunnan Province
+ISSN: 0308-521X
+1873-2267
+DOI: 10.1016/j.agsy.2019.102696
+Article Number: 102696
+Accession Number: WOS:000524974600003
+Abstract: Large-scale conversions from monoculture arabica coffee systems to agroforestry systems started in 2012 in southern Yunnan Province. This study analyses the impact of young shade trees (Cinnamomum camphora, Bishofia javanica and Jacaranda mimosifolia) on microclimate, coffee fruit development cycle, coffee yield, and coffee quality only 4 years after their introduction. The results show that young shade trees reduced diurnal fluctuations in temperatures, buffered high temperatures in the rainy season (-3 to -6 degrees C), and protected coffee trees from cold temperatures in the dry season (+0.5 to +1 degrees C). Coffee flower set decreased with shade intensity, as did fruit losses during the bean filling and maturation stages. Consequently, coffee trees under B. javanica and J. mimosifolia, which both provide light shade intensity, produced yields similar to those of coffee trees in open conditions. Only coffee trees under the dense shade of C. camphora had lower yields. Shade trees did not affect the physical and organoleptic attributes of coffee beans. This study hence demonstrates that carefully selected shade trees can rapidly provide positive ecosystem services related to microclimate and coffee physiology, while maintaining a coffee yield and quality similar to those found in monoculture coffee systems. With their diffused shade, B. javanica and J. mimosifolia are suitable options for the agro-ecological intensification of coffee systems, while the use of C. camphora requires active management and pruning practices in order to sustain high coffee yield.
+
+
+Reference Type:  Journal Article
+Record Number: 187
+Author: Rigal, C., Xu, J. C. and Vaast, P.
+Year: 2020
+Title: Young shade trees improve soil quality in intensively managed coffee systems recently converted to agroforestry in Yunnan Province, China
+Journal: PLANT AND SOIL
+Volume: 453
+Issue: 1-2
+Pages: 119-137
+Date: AUG
+Short Title: Young shade trees improve soil quality in intensively managed coffee systems recently converted to agroforestry in Yunnan Province, China
+ISSN: 0032-079X
+1573-5036
+DOI: 10.1007/s11104-019-04004-1
+Accession Number: WOS:000567934200008
+Abstract: Background and aims The trend of soil degradation in intensive open coffee systems is well-documented. This study highlights the impact of young shade trees on soil quality only 4 years after their intercropping with coffee. Methods 18 young shade trees belonging to three tree species (Cinnamomum camphora,Bishofia javanicaandJacaranda mimosifolia) were selected in an intensive coffee system in Southern Yunnan. Soil samples (0-20 cm) were tested for chemical composition, soil communities and soil enzyme activities under their canopies and in open areas, both in coffee rows and inter-rows, once during the rainy and once during the dry season. Additionally, root systems were characterized using trenches. Soil water profiles and litterfall were monitored along the production cycle. Coffee yield was recorded for two consecutive years. Results We detected a positive impact of all shade tree species on soil chemical, biological and biochemical components, especially during the dry season. This positive impact included higher soil organic matter (+10%) and more abundant soil microbial communities (+64%) under shaded coffee than under open coffee. Furthermore, shaded coffee trees yielded as much as open coffee trees, except underC. camphora, probably due to high below-ground competition. Conclusions These results demonstrate that carefully selected shade trees can rapidly contribute to preserving and/or restoring soil quality in intensive coffee systems, while maintaining high coffee yield.
+
+
+Reference Type:  Journal Article
+Record Number: 140
+Author: Rousseau, G. X., Deheuvels, O., Celentano, D., Arias, I. R., Hernández-García, L. M. and Somarriba, E.
+Year: 2021
+Title: Shade tree identity rather than diversity influences soil macrofauna in cacao-based agroforestry systems
+Journal: PEDOBIOLOGIA
+Volume: 89
+Date: NOV
+Short Title: Shade tree identity rather than diversity influences soil macrofauna in cacao-based agroforestry systems
+ISSN: 0031-4056
+1873-1511
+DOI: 10.1016/j.pedobi.2021.150770
+NIHMSID: SEP 2021
+Article Number: 150770
+Accession Number: WOS:000704948800003
+Abstract: Humanity is facing a rapid decline in global biodiversity, caused mainly by tropical deforestation through industrial and smallholder agriculture. However, smallholder agriculture landscapes host areas containing home gardens and other agroforestry systems (AFS) proved highly relevant for soil and biodiversity conservation. The positive interactions between aboveground and belowground biodiversity probably constitute a key element to promote the efficiency of these agro-ecosystems. To determine whether a relationship exists between tree and soil macrofauna diversity and composition, we compared cacao AFS with contrasted tree diversity along a topography and forest cover gradient in Talamanca, Costa Rica. To determine which components of the shade tree species, community structure (density, richness, Shannon, Pielou), and agroforest floor best explain the macrofauna community composition and structure, we constructed the "best models" based on the tree composition, tree structure, and agroforest floor as explanatory matrices in redundancy analyses. Macrofauna composition was best explained by a mix of tree species and litter attributes (R2=26.5 %), whereas macrofauna and vegetation co-vary significantly with topography (R2=12 %). Macrofauna structure is best explained by a selection of seven tree species (R2=41.2 %). The co-variation with topography remained low (R2=10.9 %). Tree evenness (Pielou index) explained only 7 % of macrofauna community structure while other diversity indices were not correlated with macrofauna composition or structure. The soil macrofauna was therefore more influenced by tree identity and litter composition than by the overall diversity of the tree community. This information is important for designing the optimal combinations of species for the intensification of production and provision of ecosystem services in cacao-based AFS.
+
+
+Reference Type:  Journal Article
+Record Number: 135
+Author: Saj, S., Heck, L. and Decayeux, E.
+Year: 2022
+Title: Viability of cocoa cultivation in French Guiana - a modeling approach
+Journal: BIOTECHNOLOGIE AGRONOMIE SOCIETE ET ENVIRONNEMENT
+Volume: 26
+Issue: 1
+Pages: 55-67
+Short Title: Viability of cocoa cultivation in French Guiana - a modeling approach
+ISSN: 1370-6233
+1780-4507
+Accession Number: WOS:000780849600005
+Abstract: Description of the subject. The cultivation of cocoa trees in French Guiana is currently experiencing a renewed level of interest and activity. A suitable framework is therefore needed to study the viability of this emerging area of cultivation. Objectives. To carry out an assessment of the technico-economic viability of cocoa cultivation and the processing of its products. Method. The costs and benefits of two different cropping systems and three types of end products were modeled. Results. The cropping system installed after partial forest clearing requires less labor and cash flow than the system based on association with banana, which allows a return on investment before the maturity of cocoa production. In order to be viable, cropping systems whose sole purpose is the production of fermented and dried beans would require yields of approximately I ton.ha(-1) and floor prices often above (sic) 10,000.t(-1). Such a result questions the feasibility of these systems. If beans were processed into cocoa sticks or chocolate, economic viability would be more easily acquired, but this would require investments that are not necessarily compatible with the cash flow of farms currently involved in cocoa fanning. Conclusions. These results highlight the need to (re)consider in French overseas regions: (i) the nature and use of species associated with cocoa trees; (ii) the status of the cocoa tree as the main crop (or not) on farms; (iii) the diversification of cocoa products making it possible to feed several markets; (iv) the collective organization of the emerging sector to support production and processing; (v) technical and financial support (e.g.: CAP aid) for fanners embarking on cocoa farming.
+
+
+Reference Type:  Journal Article
+Record Number: 62
+Author: Saj, S., Jagoret, P., Ngnogue, H. T. and Tixier, P.
+Year: 2023
+Title: Effect of neighbouring perennials on cocoa tree pod production in complex agroforestry systems in Cameroon
+Journal: EUROPEAN JOURNAL OF AGRONOMY
+Volume: 146
+Date: MAY
+Short Title: Effect of neighbouring perennials on cocoa tree pod production in complex agroforestry systems in Cameroon
+ISSN: 1161-0301
+1873-7331
+DOI: 10.1016/j.eja.2023.126810
+NIHMSID: MAR 2023
+Article Number: 126810
+Accession Number: WOS:000956348900001
+Abstract: Agroforestry systems (AFS) are gaining major interest in cocoa producing countries. However, the analysis of competition effects in multispecific complex agricultural systems remains a key lock-in preventing both (i) a thorough understanding of resource partitioning, and (ii) the co-design of spatial patterns and management of cocoa AFS (cAFS) minimising competition. We sampled 48 cAFS 1000 m2 plots in Central Cameroon and used an individual based approach to analyse the effect neighbouring tree community composition had on coca tree pod production. First, we determined the distance up to which each neighbouring tree influenced the production of a given cocoa tree and checked for the significance and the magnitude of this effect. We then explored the trade-offs between cocoa tree production and the abundance of associated trees. Our results first underline a significant intra-specific competition within the cocoa tree populations studied, which would need to be thinned down to 800-1100 individuals per ha. We also found a general negative effect of associated trees kept or grown for their fruits (e.g. mango, traditional species, citrus trees). Those effects were stronger when the trees were positioned between 6 and 11 m away from the cocoa trees. These trees clearly impaired pod production, especially for small diameter cocoa trees. Palm trees, however, had a positive effect on cocoa pod production, with suitable densities modelled ranging from 0 to 240 individuals per ha. Finally, we found both positive and negative effects of associated forest trees on cocoa pod production, which varied with the distance separating them from the cocoa trees and the size of the cocoa trees. Overall, our analyses show that cocoa production in complex cAFS is influenced both by intra-and inter-specific interactions while it remains difficult to distinguish between potential intertwined effects and resource limitations.
+
+
+Reference Type:  Journal Article
+Record Number: 156
+Author: Saj, S., Nijmeijer, A., Nieboukaho, J. D. E., Lauri, P. E. and Harmand, J. M.
+Year: 2021
+Title: Litterfall seasonal dynamics and leaf-litter turnover in cocoa agroforests established on past forest lands or savannah (Feb, 10.1007/s10457-021-00602-0, 2021)
+Journal: AGROFORESTRY SYSTEMS
+Volume: 95
+Issue: 4
+Pages: 599-599
+Date: APR
+Short Title: Litterfall seasonal dynamics and leaf-litter turnover in cocoa agroforests established on past forest lands or savannah (Feb, 10.1007/s10457-021-00602-0, 2021)
+ISSN: 0167-4366
+1572-9680
+DOI: 10.1007/s10457-021-00615-9
+NIHMSID: APR 2021
+Accession Number: WOS:000636416200001
+
+
+Reference Type:  Journal Article
+Record Number: 163
+Author: Saj, S., Nijmeijer, A., Nieboukaho, J. D. E., Lauri, P. E. and Harmand, J. M.
+Year: 2021
+Title: Litterfall seasonal dynamics and leaf-litter turnover in cocoa agroforests established on past forest lands or savannah
+Journal: AGROFORESTRY SYSTEMS
+Volume: 95
+Issue: 4
+Pages: 583-597
+Date: APR
+Short Title: Litterfall seasonal dynamics and leaf-litter turnover in cocoa agroforests established on past forest lands or savannah
+ISSN: 0167-4366
+1572-9680
+DOI: 10.1007/s10457-021-00602-0
+NIHMSID: FEB 2021
+Accession Number: WOS:000620414200002
+Abstract: Nutrient cycling in cocoa agroforestry systems (cAFS) is complex and poorly understood. To better understand the mass flow of carbon and nutrients into the soil sub-system under various contexts we quantified the mass flow of litterfall, its composition and seasonal variations in different agroforestry systems in Bokito (Central Cameroon). We studied litterfall dynamics and in situ leaf-litter cycling of cAFS established on past forest lands (F-cAFS) and savannah (S-cAFS). We also studied the decomposition of cocoa and associated tree leaf-litter in litterbags. Local secondary semi-deciduous forests were included as control. Annual litterfall in full-grown cAFS (> 15 years old) was high (9.4 Mg ha(-1) y(-1)) and represented ca. 67% of litterfall in control forests. In full-grown cAFS, associated tree leaf-litter contributed to litterfall the most and ranged between 60 and 70% of the total amount recorded (6.3 Mg ha(-1) y(-1)). The quantities and dynamics of the litter components monitored were similar in full-grown S- and F-cAFS. The microclimate was best buffered in forests and least buffered in young S-cAFS but could not be linked to leaf-litter decomposition. Forest leaf litterfall was higher and tended to cycle faster than total leaf-litter of cAFS, whose decomposition appeared limited by cocoa leaf-litter quality. Our study underlines (i) the critical contribution of associated trees to the nutrient cycle of agroecosystems established on poor soils and, (ii) the ability of farmers to channel associated tree communities towards similar functioning despite different past land-uses.
+
+
+Reference Type:  Journal Article
+Record Number: 59
+Author: Sarzynski, T., Bertrand, B., Rigal, C., Marraccini, P., Vaast, P., Georget, F., Campa, C., Abdallah, C., Nguyen, C. T. Q., Nguyen, H. P., Nguyen, H. T. T., Ngoc, Q. L., Ngan, G. K., Viet, T. V., Navarini, L., Lonzarich, V., Bossolasco, L. and Etienne, H.
+Year: 2023
+Title: Genetic-environment interactions and climatic variables effect on bean physical characteristics and chemical composition of <i>Coffea arabica</i>
+Journal: JOURNAL OF THE SCIENCE OF FOOD AND AGRICULTURE
+Volume: 103
+Issue: 9
+Pages: 4692-4703
+Date: JUL
+Short Title: Genetic-environment interactions and climatic variables effect on bean physical characteristics and chemical composition of <i>Coffea arabica</i>
+ISSN: 0022-5142
+1097-0010
+DOI: 10.1002/jsfa.12544
+NIHMSID: MAR 2023
+Accession Number: WOS:000961667700001
+Abstract: BACKGROUNDThe effects of the environment and genotype in the coffee bean chemical composition were studied using nine trials covering an altitudinal gradient [600-1100 m above sea level (a.s.l.)] with three genotypes of Coffea arabica in the northwest mountainous region of Vietnam. The impacts of the climatic conditions on bean physical characteristics and chemical composition were assessed. RESULTSWe showed that the environment had a significant effect on the bean density and on all bean chemical compounds. The environment effect was stronger than the genotype and genotype-environment interaction effects for cafestol, kahweol, arachidic (C20:0), behenic acid (C22:0), 2,3-butanediol, 2-methyl-2-buten-1-ol, benzaldehyde, benzene ethanol, butyrolactone, decane, dodecane, ethanol, pentanoic acid, and phenylacetaldehyde bean content. A 2 degrees C increase in temperature had more influence on bean chemical compounds than a 100 mm increase in soil water content. Temperature was positively correlated with lipids and volatile compounds. With an innovative method using iterative moving averages, we showed that correlation of temperature, vapour pressure deficit (VPD) and rainfall with lipids and volatiles was higher between the 10th and 20th weeks after flowering highlighting this period as crucial for the synthesis of these chemicals. Genotype specific responses were evidenced and could be considered in future breeding programmes to maintain coffee beverage quality in the midst of climate change. CONCLUSIONThis first study of the effect of the genotype-environment interactions on chemical compounds enhances our understanding of the sensitivity of coffee quality to genotype environment interactions during bean development. This work addresses the growing concern of the effect of climate change on speciality crops and more specifically coffee. (c) 2023 The Authors. Journal of The Science of Food and Agriculture published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.
+
+
+Reference Type:  Journal Article
+Record Number: 4
+Author: Sarzynski, T., Vaast, P., Rigal, C., Marraccini, P., Delahaie, B., Georget, F., Nguyen, C. T. Q., Nguyen, H. P., Nguyen, H. T. T., Ngoc, Q. L., Ngan, G. K., Bossolasco, L. and Etienne, H.
+Year: 2024
+Title: Contrasted agronomical and physiological responses of five <i>Coffea arabica</i> genotypes under soil water deficit in field conditions
+Journal: FRONTIERS IN PLANT SCIENCE
+Volume: 15
+Date: OCT 8
+Short Title: Contrasted agronomical and physiological responses of five <i>Coffea arabica</i> genotypes under soil water deficit in field conditions
+ISSN: 1664-462X
+DOI: 10.3389/fpls.2024.1443900
+Article Number: 1443900
+Accession Number: WOS:001339668500001
+Abstract: Introduction: Breeding programs have developed high-yielding Coffea arabica F1-hybrids as an adaptation against adverse conditions associated with climate change. However, theresponse to drought of coffee F1 hybrids has seldom been assessed. Methods: A trial was established with five C. arabica genotypes (2 pure lines: Catimor and Marsellesa and 3 F1 hybrids: Starmaya, Centroamericano and Mundo Maya) planted under the leguminous tree species Leuceana leucocephala. Coffee growth, yield and physiological responses were assessed under a rain-fed (control: CON) and a rainfall reduction treatment (RR) for 2 years. Results: The RR treatment created a long-term rainfall deficit in a region with suboptimal temperature similar to those predicted by climate change scenarios. Moreover, the RR treatment reduced soil water content by 14% over 2 successive years of production and increased hydric stress of the three F1-hybrids (leaf water potentials averaged -0.8 MPa under RR compared with -0.4 MPa under CON). Under RR, coffee yields were reduced from 16 to 75% compared to CON. Mundo Maya F1 hybrid was the sole high-yielding genotype apable of sustaining its yield under RR conditions. Our results suggested that its significant increase in fine root density (CON = 300 and RR = 910 root.m-2) and its maintenance of photosynthetic rate (2.5 - 3.5 mmol CO2 m-2 s-1) at high evaporative demand might explain why this genotype maintained high yield under RR condition. Discussion: This work highlights a possible drought tolerance mechanism in fruit bearing adult coffee trees where the plant fine root number increases to intake more water in order to preserve turgor and sustainphotosynthesis at high ETo and therefore conserves high yield in dry conditions.
+
+
+Reference Type:  Journal Article
+Record Number: 215
+Author: Sauvadet, M., Saj, S., Freschet, G. T., Essobo, J. D., Enock, S., Becquer, T., Tixier, P. and Harmand, J. M.
+Year: 2020
+Title: Cocoa agroforest multifunctionality and soil fertility explained by shade tree litter traits
+Journal: JOURNAL OF APPLIED ECOLOGY
+Volume: 57
+Issue: 3
+Pages: 476-487
+Date: MAR
+Short Title: Cocoa agroforest multifunctionality and soil fertility explained by shade tree litter traits
+ISSN: 0021-8901
+1365-2664
+DOI: 10.1111/1365-2664.13560
+NIHMSID: FEB 2020
+Accession Number: WOS:000510494500001
+Abstract: Manipulating plant functional diversity to improve agroecosystem multifunctionality is a central challenge of agricultural systems world-wide. In cocoa agroforestry systems (cAFS), shade trees are used to supply many services to farmers, yet their impact on soil functioning and cocoa yields is likely to vary substantially among tree species. Here we compared the impact of five shade tree species (Canarium schweinfurthii (Canarium), Dacryodes edulis (Safou), Milicia excelsa (Iroko), Ceiba pentandra (Kapok tree), Albizia adianthifolia (Albizia)) and unshaded conditions on the functioning of poor sandy savanna soils within eight cocoa farms in Central Cameroon. We assessed the effects of plant functional traits, leaf litterfall and fine root biomass on a range of soil functions and on cocoa yield. Shade trees generally improved soil pH, NH4+, NO3- and Olsen P content, biomass production of bioassays and soil total C and N content, while leaving cocoa yields unchanged. However, these effects varied largely among species. Improvements of soil functions were low under the two fruit trees (Canarium and Dacryodes), medium under the legume tree Albizia and high under the two timber trees (Milicia and Ceiba). Low litter recalcitrance was most strongly associated with increases in soil fertility indicators such as N and P availability, whereas soil C and N content increased with litter Ca restitution. Synthesis and applications. We demonstrate that cocoa agroforest multifunctionality is substantially influenced by the functional traits of shade tree species. Shade tree species with the most dissimilar traits to cocoa (cocoa showing the lowest leaf litter quality) showed the largest improvement of soil functions. Therefore, selection of shade trees based on their functional traits appears as a promising practice to adequately manage soil functioning. In order to fully assess the beneficial role of shade trees in these agroecosystems. Future research will need to extend this approach to other below-ground traits and other aspects of multifunctionality such as long-term cocoa health and yield.
+
+
+Reference Type:  Journal Article
+Record Number: 146
+Author: Sauvadet, M., Trap, J., Damour, G., Plassard, C., Van den Meersche, K., Achard, R., Allinne, C., Autfray, P., Bertrand, I., Blanchart, E., Deberdt, P., Enock, S., Essobo, J. D., Freschet, G. T., Hedde, M., Virginio, E. D., Rabary, B., Rakotoarivelo, M., Randriamanantsoa, R., Rhino, B., Ripoche, A., Rosalie, E., Saj, S., Becquer, T., Tixier, P. and Harmand, J. M.
+Year: 2021
+Title: Agroecosystem diversification with legumes or non-legumes improves differently soil fertility according to soil type
+Journal: SCIENCE OF THE TOTAL ENVIRONMENT
+Volume: 795
+Date: NOV 15
+Short Title: Agroecosystem diversification with legumes or non-legumes improves differently soil fertility according to soil type
+ISSN: 0048-9697
+1879-1026
+DOI: 10.1016/j.scitotenv.2021.148934
+NIHMSID: JUL 2021
+Article Number: 148934
+Accession Number: WOS:000697004100020
+Abstract: Plant diversification through crop rotation or agroforestry is a promising way to improve sustainability of agroecosystems. Nonetheless, criteria to select the most suitable plant communities for agroecosystems diversification facing contrasting environmental constraints need to be refined. Here, we compared the impacts of 24 different plant communities on soil fertility across six tropical agroecosystems: either on highly weathered Ferralsols, with strong P limitation, or on partially weathered soils derived from volcanic material, with major N limitation. In each agroecosystem, we tested several plant communities for diversification, as compared to a matching low diversity management for their cropping system. Plant residue restitution, N, P and lignin contents were measured for each plant community. In parallel, the soil under each community was analyzed for organic C and N, inorganic N, Olsen P, soil pH and nematode community composition. Soil potential fertility was assessed with plant bioassays under greenhouse controlled climatic conditions. Overall, plant diversification had a positive effect on soil fertility across all sites, with contrasting effects depending on soil type and legumes presence in the community. Communities with legumes improved soil fertility indicators of volcanic soils, which was demonstrated through significantly higher plant biomass production in the bioassays (+18%) and soil inorganic N (+26%) compared to the low diversity management. Contrastingly, communities without legumes were the most beneficial in Ferralsols, with increases in plant biomass production in the bioassays (+39%), soil Olsen P (+46%), soil C (+26%), and pH (+5%). Piecewise structural equation models with Shipley's test revealed that plant diversification impacts on volcanic soil fertility were related to soil N availability, driven by litter N. Meanwhile, Ferralsols fertility was related to soil P availability, driven by litter P. These findings underline the importance of multifactorial and multi-sites experiments to inform trait-based frameworks used in designing optimal plant diversification in agroecological systems. (c) 2021 Elsevier B.V. All rights reserved.
+
+
+Reference Type:  Journal Article
+Record Number: 262
+Author: Sauvadet, M., Van den Meersche, K., Allinne, C., Gay, F., Virginio, E. D., Chauvat, M., Becquer, T., Tixier, P. and Harmand, J. M.
+Year: 2019
+Title: Shade trees have higher impact on soil nutrient availability and food web in organic than conventional coffee agroforestry
+Journal: SCIENCE OF THE TOTAL ENVIRONMENT
+Volume: 649
+Pages: 1065-1074
+Date: FEB 1
+Short Title: Shade trees have higher impact on soil nutrient availability and food web in organic than conventional coffee agroforestry
+ISSN: 0048-9697
+1879-1026
+DOI: 10.1016/j.scitotenv.2018.08.291
+Accession Number: WOS:000446076500101
+Abstract: Conventional, intensively managed coffee plantations are currently facing environmental challenges. The use of shade trees and the organic management of coffee crops are welcome alternatives, aiming to reduce synthetic inputs and restore soil biological balance. However, little is known about the impacts of the different types of shade tree species on soil functioning and fauna. In this paper, we assess soil nutrient availability and food web structure on a 17-year old experimental coffee plantation in Turrialba in Costa Rica. Three shade types (unshaded coffee, shaded with Terminalia amazonia, and shaded with Erythrina poepiggiana) combined with two management practices (organic and conventional) were evaluated. Total C and N, inorganic N and Olsen P content, soil pH, global soil fertility, and nematode and microarthropod communities were measured in the top 10 cm soil layer, with the objective of determining how shade tree species impact the soil food web and soil C, N and P cycling under different types of management. We noted a decrease in soil inorganic N content and nematode density under conventional management (respectively -47% and -91% compared to organic management), which suggested an important biological imbalance, possibly caused by the lack of organic amendment. Under conventional management, soil nutrient availability and fauna densities were higher under shade, regardless of the shade tree species. Under organic management, only soils under E. poeppigiana, a heavily pruned. N-2 -fixing species, had increased nutrient availability and fauna density, while T amazonia shade had a null or negative impact. The effects of coffee management and shade type on soil nutrient availability were mirrored by changes in soil food web structure. Higher fertility was recorded in soil with balanced food webs. These results emphasize the importance of the choice of shade tree species for soil functions in low input systems, more so than in fertilized systems. (C) 2018 Elsevier B.V. All rights reserved.
+
+
+Reference Type:  Journal Article
+Record Number: 138
+Author: Somarriba, E., Peguero, F., Cerda, R., Orozco-Aguilar, L., López-Sampson, A., Leandro-Muñoz, M. E., Jagoret, P. and Sinclair, F. L.
+Year: 2021
+Title: Rehabilitation and renovation of cocoa (<i>Theobromacacao</i> L.) agroforestry systems. A review
+Journal: AGRONOMY FOR SUSTAINABLE DEVELOPMENT
+Volume: 41
+Issue: 5
+Date: OCT
+Short Title: Rehabilitation and renovation of cocoa (<i>Theobromacacao</i> L.) agroforestry systems. A review
+ISSN: 1774-0746
+1773-0155
+DOI: 10.1007/s13593-021-00717-9
+Article Number: 64
+Accession Number: WOS:000696523900001
+Abstract: Cocoa farmers must decide on whether to rehabilitate (Rh) or to renovate (Re) a cocoa orchard when its productivity declines due to ageing, disease outbreaks or other causes. Deciding on Rh/Re is often a complex, expensive and conflictive process. In this review, we (1) explore the diversity of contexts, driving forces, stakeholders and recommended management practices involved in Rh/Re initiatives in key cocoa-producing countries; (2) summarise the often conflicting views of farmers and extension agents on Rh/Re programmes; (3) review the evidence of age-related changes in planting density and yield of cocoa, given the weight of these variables in Rh/Re decision processes; (4) describe the best known Rh/Re systems and their most common management practices; (5) propose an agroforestry Re approach that overcomes the limitation of current Rh/Re diagnosis protocols, which do not consider the regular flow of food crop and tree products, and the need to restore site soil quality to sustain another cycle of cultivation of cocoa at the same site; and (6) explore the effects of climate change considerations on Rh/Re decision-making and implementation processes. Each Rh/Re decision-making process is unique and highly context-dependent (household and farm, soil, climate, culture). Tailored solutions are needed for each farmer and context. The analysis, concepts and models presented for cocoa in this paper may also apply to coffee orchards.
+
+
+Reference Type:  Journal Article
+Record Number: 38
+Author: Somarriba, E., Saj, S., Orozco-Aguilar, L., Somarriba, A. and Rapidel, B.
+Year: 2024
+Title: Shade canopy density variables in cocoa and coffee agroforestry systems
+Journal: AGROFORESTRY SYSTEMS
+Volume: 98
+Issue: 3
+Pages: 585-601
+Date: MAR
+Short Title: Shade canopy density variables in cocoa and coffee agroforestry systems
+ISSN: 0167-4366
+1572-9680
+DOI: 10.1007/s10457-023-00931-2
+NIHMSID: DEC 2023
+Accession Number: WOS:001126345200001
+Abstract: An estimated 3.4 million hectares of cocoa and 9.7 million hectares of coffee are cultivated, globally, under shade trees, i.e. in agroforestry systems. Shade canopies are characterized in terms of tree density (N, trees ha(-1)), tree basal area (G, m(2) ha(-1)) and percent canopy cover (%Cov). N, G and %Cov are named shade canopy density variables (SCDV). The use of these SCDV has two important limitations: (1) different combinations of values of the three SCDV variables generate very different shade tree stands (hence very different shading levels), and (2) Additional factors modify shading under shade canopies with constant SCDV values. This article uses the software ShadeMotion (www.shademotion.net) to show how 24 different, simple, even-sized, mono-layered, Cordia alliodora shade canopies with constant N, G and %Cov display significantly different shade levels and temporal patterns of shading depending on tree stem and crown diameter ratios, tree height, spatial planting configurations (square, random and alleys) and leaf fall patterns. A minimum set of variables capable of providing a more accurate description of the shading characteristics of a cocoa or coffee shade canopy is proposed. Our findings can shed light on the current debate on the pros and cons of the definitions of cocoa agroforestry used by chocolate and certification companies, governments, non-governmental organizations, and donors, especially in West and Central Africa. In this article, emphasis is given to cocoa, but the analysis, results and conclusions are equally applicable to coffee agroforestry systems.
+
+
+Reference Type:  Journal Article
+Record Number: 90
+Author: Vignola, R., Esquivel, M. J., Harvey, C., Rapidel, B., Bautista-Solis, P., Alpizar, F., Donatti, C. and Avelino, J.
+Year: 2022
+Title: Ecosystem-Based Practices for Smallholders' Adaptation to Climate Extremes: Evidence of Benefits and Knowledge Gaps in Latin America
+Journal: AGRONOMY-BASEL
+Volume: 12
+Issue: 10
+Date: OCT
+Short Title: Ecosystem-Based Practices for Smallholders' Adaptation to Climate Extremes: Evidence of Benefits and Knowledge Gaps in Latin America
+ISSN: 2073-4395
+DOI: 10.3390/agronomy12102535
+Article Number: 2535
+Accession Number: WOS:000874147800001
+Abstract: Agricultural practices of smallholder farming systems of Latin America can play an important role in reducing their exposure to the risks associated with climate extremes. To date, however, there is no systematic analysis of scientific evidence for the extent to which these practices can provide the multiple benefits needed for smallholders to adapt to climate extremes. In this paper, we searched scientific databases to review scientific evidence of the benefit provided by twenty-six practices in crops commonly farmed by smallholders in the region and highly relevant for their food and nutrition security; namely, coffee, maize and beans. We reviewed scientific documents (n = 304) published in the period 1953-2021 to register evidence of the practices' effects on fifty-five benefits. Our analysis of these documents found measurement records (n = 924) largely based on field experiments (85%). Our results show strong evidence of the multiple benefits that some ecosystem-based practices (e.g., tree-based practices for coffee and no tillage for maize) can provide to support the adaptation to climate extremes of smallholder farming systems and enhance a farm's natural assets (e.g., biodiversity, water, soil). We also found that the majority of research on practices in the region focused more on the socioeconomic dimension (54%) rather than on the capacity of practices to improve the natural assets of a smallholder farmers or reduce the impact of climate extremes. Given these knowledge gaps, we discuss the importance of a renovated investment in research to address existing knowledge gaps. Our concluding suggestions for future research include the need for systematizing existing knowledge from different sources (e.g., peer-reviewed, gray literature, farmers, extension agencies, etc.), and to assess the extent to which these practices can provide multiple benefits for smallholder farming systems by improving their wellbeing, reducing their vulnerability to different hydroclimatic extremes while also contributing to ecosystem services provision at the landscape level.
+
+
+Reference Type:  Journal Article
+Record Number: 232
+Author: Wagner, S., Rigal, C., Liebig, T., Mremi, R., Hemp, A., Jones, M., Price, E. and Preziosi, R.
+Year: 2019
+Title: Ecosystem Services and Importance of Common Tree Species in Coffee-Agroforestry Systems: Local Knowledge of Small-Scale Farmers at Mt. Kilimanjaro, Tanzania
+Journal: FORESTS
+Volume: 10
+Issue: 11
+Date: NOV
+Short Title: Ecosystem Services and Importance of Common Tree Species in Coffee-Agroforestry Systems: Local Knowledge of Small-Scale Farmers at Mt. Kilimanjaro, Tanzania
+ISSN: 1999-4907
+DOI: 10.3390/f10110963
+Article Number: 963
+Accession Number: WOS:000502262700029
+Abstract: Research Highlights: Global coffee production, especially in smallholder farming systems, is vulnerable and must adapt in the face of climate change. To this end, shaded agroforestry systems are a promising strategy. Background and Objectives: Understanding local contexts is a prerequisite for designing locally tailored systems; this can be achieved by utilizing farmers' knowledge. Our objective is to explore ecosystem services (ESs) provided by different shade tree species as perceived by farmers and possible factors (elevation, gender, and membership in local farmers groups) influencing these perceptions. We related these factors, as well as farmers' ESs preferences, to planting densities of tree species. Materials and Methods: During interviews with 263 small-scale coffee farmers on the southern slope of Mt. Kilimanjaro, they ranked the most common shade tree species according to perceived provision of the locally most important ESs for coffee farmers. We asked them to estimate the population of each tree species on their coffee fields and to identify the three ESs most important for their household. Results: Food, fodder, and fuelwood emerged as the most important ESs, with 37.8% of the respondents mentioning all three as priorities. Density of tree species perceived to provide these three ESs were significantly higher for farmers prioritizing these services compared to farmers that did not consider all three ESs in their top three. Albizia schimperiana scored the highest for all rankings of regulatory ESs such as coffee yield improvement, quality shade provision, and soil fertility improvement. Influence of elevation, gender, and farmer group affiliation was negligible for all rankings. Conclusions: This study shows the need to understand factors underlying farmers' management decisions before recommending shade tree species. Our results led to the upgrade of the online tool (shadetreeadvice.org) which generates lists of potential common shade tree species tailored to local ecological context considering individual farmers' needs.
+
+
+Reference Type:  Journal Article
+Record Number: 12
+Author: Wibaux, T., Normand, F., Vezy, R., Durand, J. B. and Lauri, PÉ
+Year: 2024
+Title: Does seasonal flowering and fruiting patterns of cacao only depend on climatic factors? The case study of mixed genotype populations in Cote d'Ivoire
+Journal: SCIENTIA HORTICULTURAE
+Volume: 337
+Date: NOV 1
+Short Title: Does seasonal flowering and fruiting patterns of cacao only depend on climatic factors? The case study of mixed genotype populations in Cote d'Ivoire
+ISSN: 0304-4238
+1879-1018
+DOI: 10.1016/j.scienta.2024.113529
+NIHMSID: AUG 2024
+Article Number: 113529
+Accession Number: WOS:001291739500001
+Abstract: Theobroma cacao, a tropical cauliflorous fruit tree, typically produces flowers and fruits twice a year and exhibits alternate harvesting patterns over consecutive six-monthly seasons in regions with bi-modal rainfall distribution, such as Cote d'Ivoire. This study investigated seasonal variations in flowering and fruiting among trees in populations of mixed cacao genotypes. The intensities of crown and trunk flowering and pod production were monitored for eight consecutive six-monthly seasons on 114 adult cacao trees grown from seedlings. We investigated distributions of seasonal flowering and fruiting values, relationships between flowering and pod production, and the effects of seasonal cumulative rainfall. The patterns of seasonal flowering and fruiting series were analyzed using two descriptors: the first distinguishing between regular and variable patterns, and the second analyzing the structure of such variability, classifying it as either irregular or alternating. Despite being subjected to similar climate and agronomic management, individual trees exhibited highly variable flowering and fruiting behaviors within each season, as well as variable patterns of flowering and fruiting across seasons. Seasonal alternate fruiting on a population scale masked highly variable patterns among trees, and only 19 % of the trees exhibited marked alternate fruiting patterns. Variations in pod production on a tree scale were mainly related to variations in trunk flowering. Endogenous factors seemed to control seasonal variations in flowering and fruiting, even though exogenous factors, both climatic and agronomic, could structure flowering and fruiting patterns at the orchard scale.
+
+
