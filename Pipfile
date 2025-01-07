@@ -9,6 +9,8 @@ pandas = "*"
 matplotlib = "*"
 scikit-learn = "*"
 openai = "*"
+transformers = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
